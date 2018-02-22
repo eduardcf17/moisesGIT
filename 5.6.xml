@@ -1,0 +1,14 @@
+<ranquing>
+  <alumne email="cf17eduard.corral">
+    <nom>Eduard</nom>
+    <cognom1>Corral</cognom1>
+    <punts>10</punts>
+    <posicio>1</posicio>
+    <anterior>2</anterior>
+  </alumne>
+  <alumne email="cf17oscar.galvez">
+    <alies>Oscar</alies>
+    <punts>8</punts>
+    <posicio>2</posicio>
+  </alumne>
+</ranquing>

@@ -1,0 +1,10 @@
+<!ELEMENT ranquing (alumne*)>
+<!ELEMENT alumne (((nom,cognom,cognom2?) | alias),punts,posicio,posicioAnterior?)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT cognom1 (#PCDATA)>
+<!ELEMENT cognom2 (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT punts (#PCDATA)>
+<!ELEMENT posicio (#PCDATA)>
+<!ELEMENT posicioAnterior (#PCDATA)>
+<!ATTLIST alumne email CDATA #IMPLIED>
