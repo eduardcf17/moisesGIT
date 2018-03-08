@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+  <element name="missatge">
+    <complexType>
+      <sequence>
+        <element name="origen" type="string" />
+        <element name="destinació" type="string" />
+        <element name="data" type="date" />
+        <element name="tema" type="string" />
+        <element name="text" type="string" />
+      </sequence>
+    </complexType>
+  </element>
+</schema>

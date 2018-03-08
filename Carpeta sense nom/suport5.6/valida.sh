@@ -11,22 +11,17 @@ hi_ha_error=0
 
 for f in *.ok.xml; do
   xmllint --dtdvalid ranquing.dtd $f &> /dev/null
-  if [[ "$?" != 0 ]]; 
-  then
-    hi_ha_error=1
-    echo "hi_ha_error=$hi_ha_error amb $f"
-    break
-  fi
+  if [[ "$?" != 0 ]]; then hi_ha_error=1 echo "hi_ha_error=1"; break; fi
   echo "Validat $f"
 done
-echo "En passar els valids hi_ha_error=$hi_ha_error";
+
 for f in *.ko.xml; do
   xmllint --dtdvalid ranquing.dtd $f &> /dev/null
-  if [[ "$?" == 0 ]]; then hi_ha_error=1; echo "hi_ha_error=2"; break; fi
+  if [[ "$?" == 0 ]]; then hi_ha_error=1 echo "hi_ha_error=2"; break; fi
   echo "No Validat $f"
 done
 
-if [[ ! -f companys.xml ]]; then hi_ha_error=1; echo "hi_ha_error=3"; fi
+if [[ ! -f companys.xml ]]; then hi_ha_error=1 echo "hi_ha_error=3"; fi
 
 if [[ "$hi_ha_error" == 0 ]];
 then
