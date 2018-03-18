@@ -1,0 +1,20 @@
+<diari valoracio="5">
+		<article id="4" data="4/5/18">
+			<tipus>
+				</noticia>
+				<font>Arial</font>
+			</tipus>
+			<cos>
+				<paragraf>algo</paragraf>
+			</cos>
+		<article id="5" data="7/5/18">
+			<tipus>
+				</opinio>
+				<autor>Autor1</autor>
+				<autor>Autor2</autor>
+			</tipus>
+			<cos>
+				<paragraf>algo</paragraf>
+			</cos>
+		</article>
+</diari>

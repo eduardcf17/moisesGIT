@@ -1,0 +1,18 @@
+<!ELEMENT diari (article*)>
+<!ATTLIST diari valoracio (1|2|3|4|5) #REQUIRED>
+<!ELEMENT article (titol,Subtitol?,tipus,cos,nota)>
+<!ELEMENT tipus ((noticia,font?)|(opinio,autor+))>
+<!ATTLIST article id ID #REQUIRED>
+<!ATTLIST article data CDATA #REQUIRED>
+<!ELEMENT titol #PCDATA>
+<!ELEMENT Subtitul #PCDATA>
+<!ELEMENT noticia #EMPTY>
+<!ELEMENT font #PCDATA>
+<!ELEMENT opinio #EMPTY>
+<!ELEMENT autor #PCDATA>
+<!ELEMENT cos(paragraf+)>
+<!ELEMENT paragraf #PCDATA>
+<!ELEMENT nota(paragraf+)>
+<!ATTLIST nota ref IDREF #REQUIRED>
+
+

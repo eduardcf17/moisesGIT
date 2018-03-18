@@ -1,0 +1,12 @@
+<schema>
+  <element name="arrel">
+    <complexType>
+     <sequence>
+        <element name="un-i-nomes-un" type="string" />
+        <element name="tres-cops-exactament" type="string" minOccurs= "3" maxOccurs="3"/>  
+        <element name="entre-un-i-dotze" type="string" minOccurs="1" maxOccurs="1"/>  
+        <element name="obligatori-i-indefinit" type="string"  minOccurs="1" maxOccurs="1"/>  
+      </sequence> 
+    </complexType>
+  </element>
+</schema>

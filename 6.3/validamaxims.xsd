@@ -1,0 +1,15 @@
+<schema>
+	<element name="arrel">
+	  <complexType>
+	   <sequence>
+	      <element name="un-i-nomes-un" type="string" />
+	      <element name="hi-es-un-cop-o-no-hi-es" type="string" minOccurs="1" maxOccurs="1"/>	
+	      <element name="tres-cops-exactament" type="string" minOccurs="3" maxOccurs="3"/>	
+	      <element name="entre-un-i-dotze" type="string" minOccurs="12" maxOccurs="12"/>	
+	      <element name="si-hi-ha-com-a-molt-set" type="string" minOccurs="7" maxOccurs="7"/>	
+	      <element name="obligatori-i-indefinit" type="string" minOccurs="15" maxOccurs="15"/>	
+	      <element name="quants-vulguis" type="string" minOccurs="15" maxOccurs="15"/>	
+	    </sequence>	
+	  </complexType>
+	</element>
+</schema>
