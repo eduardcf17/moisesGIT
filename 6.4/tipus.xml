@@ -1,0 +1,17 @@
+<arrel>
+	<es_text>Eduard</es_text>
+	<es_text>cf17eduard.corral@iesjoandaustria.org</es_text>
+	<es_token>cf17eduard.corral</es_token>
+	<es_enter>18</es_enter>
+	<es_enter>2500</es_enter>
+	<es_enter>-42</es_enter>
+	<es_decimal>-41.5</es_decimal>
+	<es_boolean>true</es_boolean>
+	<es_boolean>0</es_boolean>
+	<es_data>2018-03-18</es_data>
+	<es_data>1999-06-12</es_data>
+	<es_hora>21:31:01</es_hora>
+	<es_data_i_hora>2018-03-18T21:31:01</es_data_i_hora>
+	<es_duration>P0Y3M12D</es_duration>
+	<es_duration>P0Y0M0DT3H01M1S</es_duration>
+</arrel>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+	<element name="arrel">
+	  <complexType>
+	   <sequence>
+	      <element name="es_text" type="string" minOccurs="1" maxOccurs="unbounded"/>
+	      <element name="es_token" type="token" minOccurs="1" maxOccurs="unbounded"/>	
+	      <element name="es_enter" type="integer" minOccurs="1" maxOccurs="unbounded"/>	
+	      <element name="es_decimal" type="decimal" minOccurs="1" maxOccurs="unbounded"/>		
+	      <element name="es_boolean" type="boolean" minOccurs="1" maxOccurs="unbounded"/>		
+	      <element name="es_data" type="date" minOccurs="1" maxOccurs="unbounded"/>		
+	      <element name="es_hora" type="time" minOccurs="1" maxOccurs="unbounded"/>		
+	      <element name="es_data_i_hora" type="dateTime" minOccurs="1" maxOccurs="unbounded"/>		
+	      <element name="es_duration" type="duration" minOccurs="1" maxOccurs="unbounded"/>		
+	    </sequence>	
+	  </complexType>
+	</element>
+</schema>
