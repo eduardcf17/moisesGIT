@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+	<element name="acta">
+	  <complexType>
+	   <sequence>
+	   	<element name="sessio" type="int"/>
+	   	<element name="comunitat" type="string"/>
+	   	<element name="data" type="data"/>
+	   	<element name="inici" type="time"/>
+	   	<element name="acabament" type="time"/>
+	   	<element name="lloc" type="string"/>
+	   	<element name="president" type="string"/>
+	   	<element name="vicepresident" type="string"/>
+	   	<element name="administrador" type="string"/>
+	   	<element name="assistents">
+	  		<complexType>
+	  			 <sequence>
+	      			<element name="assistent">
+	      				<complexType>
+	      					<sequence>	
+					      			<element name="pis">
+					      				<complexType>
+					      					<sequence>
+					      						<element name="planta" type="int" />
+					      						<element name="porta" type="int" />
+					      					</sequence>
+					      				</complexType>
+					      			</element>
+					      	</sequence>
+					    </complexType>
+					</element>
+	      			<element name="vei" type="string"/>
+	      		</sequence>	
+			</complexType>
+		</element>
+
+	<element name="ordredeldia">
+		<complexType>
+			<sequence>
+				<element name="punt">
+					<complexType>
+						<sequence>
+							<element name="nr" type="int" />
+							<element name="paragraf" type="string" />
+						</sequence>
+					</complexType>
+				</element>
+			</sequence>
+		</complexType>
+	</element>
+	
+	<element name="desenvolupament">
+		<complexType>
+			<sequence>
+				<element name="entrada">
+					<complexType>
+						<sequence>
+							<element name="paragraf" type="string"/>
+						</sequence>
+					</complexType>
+				</element>
+			</sequence>
+		</complexType>
+	</element>
+
+</sequence>
+</complexType>
+</element>
+</schema>
