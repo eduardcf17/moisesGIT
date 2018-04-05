@@ -3,9 +3,9 @@
 	<element name="acta">
 	  <complexType>
 	   <sequence>
-	   	<element name="sessio" type="int"/>
+	   	<element name="sessio" type="integer"/>
 	   	<element name="comunitat" type="string"/>
-	   	<element name="data" type="data"/>
+	   	<element name="data" type="date"/>
 	   	<element name="inici" type="time"/>
 	   	<element name="acabament" type="time"/>
 	   	<element name="lloc" type="string"/>
@@ -18,18 +18,18 @@
 	      			<element name="assistent">
 	      				<complexType>
 	      					<sequence>	
-					      			<element name="pis">
-					      				<complexType>
-					      					<sequence>
-					      						<element name="planta" type="int" />
-					      						<element name="porta" type="int" />
-					      					</sequence>
-					      				</complexType>
-					      			</element>
+				      			<element name="pis">
+				      				<complexType>
+				      					<sequence>
+				      						<element name="planta" type="int" />
+				      						<element name="porta" type="int" />
+				      					</sequence>
+				      				</complexType>
+				      			</element>
+				      			<element name="vei" type="string"/>
 					      	</sequence>
 					    </complexType>
 					</element>
-	      			<element name="vei" type="string"/>
 	      		</sequence>	
 			</complexType>
 		</element>
