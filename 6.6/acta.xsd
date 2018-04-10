@@ -7,7 +7,10 @@
 	   	<element name="comunitat" type="string"/>
 	   	<element name="data" type="date"/>
 	   	<element name="inici" type="time"/>
-	   	<element name="acabament" type="time"/>
+	   	<choice>
+	   		<element name="acabament" type="time"/>
+	   		<element name="durada" type="time"/>
+	   	</choice>
 	   	<element name="lloc" type="string"/>
 	   	<element name="president" type="string"/>
 	   	<element name="vicepresident" type="string"/>
