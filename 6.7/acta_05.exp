@@ -1,0 +1,7 @@
+acta_05.xml:13: element assistent: Schemas validity error : Element 'assistent': Missing child element(s). Expected is ( vei ).
+acta_05.xml:17: element noassistents: Schemas validity error : Element 'noassistents': Missing child element(s). Expected is ( pis ).
+acta_05.xml:18: element ordredeldia: Schemas validity error : Element 'ordredeldia': Missing child element(s). Expected is ( punt ).
+acta_05.xml:19: element desenvolupament: Schemas validity error : Element 'desenvolupament': Missing child element(s). Expected is ( entrada ).
+acta_05.xml:20: element acords: Schemas validity error : Element 'acords': Missing child element(s). Expected is ( entrada ).
+acta_05.xml:21: element temespendents: Schemas validity error : Element 'temespendents': Missing child element(s). Expected is ( entrada ).
+acta_05.xml fails to validate

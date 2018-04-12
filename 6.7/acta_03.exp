@@ -1,0 +1,13 @@
+acta_03.xml:2: element acta: Schemas validity error : Element 'acta': The attribute 'sessio' is required but missing.
+acta_03.xml:2: element acta: Schemas validity error : Element 'acta': The attribute 'comunitat' is required but missing.
+acta_03.xml:2: element acta: Schemas validity error : Element 'acta': The attribute 'data' is required but missing.
+acta_03.xml:2: element acta: Schemas validity error : Element 'acta': The attribute 'inici' is required but missing.
+acta_03.xml:2: element acta: Schemas validity error : Element 'acta': The attribute 'acabament' is required but missing.
+acta_03.xml:2: element acta: Schemas validity error : Element 'acta': The attribute 'lloc' is required but missing.
+acta_03.xml:2: element acta: Schemas validity error : Element 'acta': The attribute 'president' is required but missing.
+acta_03.xml:2: element acta: Schemas validity error : Element 'acta': The attribute 'vicepresident' is required but missing.
+acta_03.xml:2: element acta: Schemas validity error : Element 'acta': The attribute 'administrador' is required but missing.
+acta_03.xml:5: element pis: Schemas validity error : Element 'pis': The attribute 'planta' is required but missing.
+acta_03.xml:5: element pis: Schemas validity error : Element 'pis': The attribute 'porta' is required but missing.
+acta_03.xml:32: element punt: Schemas validity error : Element 'punt': The attribute 'nr' is required but missing.
+acta_03.xml fails to validate

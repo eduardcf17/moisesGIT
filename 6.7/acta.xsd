@@ -1,118 +1,144 @@
 <?xml version="1.0"?>
 <schema xmlns="http://www.w3.org/2001/XMLSchema">
-	<element name="acta">
-	  <complexType>
-	   <sequence>
-	   	<attribute name="sessio" type="integer"/>
-	   	<attribute name="comunitat" type="string"/>
-	   	<attribute name="data" type="date"/>
-	   	<attribute name="inici" type="time"/>
-	   	<choice>
-	   		<attribute name="acabament" type="time"/>
-	   		<attribute name="durada" type="time"/>
-	   	</choice>
-	   	<attribute name="lloc" type="string"/>
-	   	<attribute name="president" type="string"/>
-	   	<attribute name="vicepresident" type="string"/>
-	   	<attribute name="administrador" type="string"/>
-	   	<attribute name="assistents">
-	  		<complexType>
-	  			 <sequence>
-	      			<element name="assistent" minOccurs="0" maxOccurs="unbounded">
-	      				<complexType>
-	      					<sequence>	
-				      			<element name="pis">
-				      				<complexType>
-				      					<sequence>
-				      						<element name="planta" type="int" />
-				      						<element name="porta" type="int" />
-				      					</sequence>
-				      				</complexType>
-				      			</element>
-				      			<element name="vei" type="string"
-				      				minOccurs="0" maxOccurs="unbounded"/>
-					      	</sequence>
-					    </complexType>
-					</element>
-	      		</sequence>	
-			</complexType>
-		</element>
-		
-	
-		<element name="noassistents" minOccurs="0" maxOccurs="1" >
-				<complexType>
-					<sequence>
-					<element name="pis" minOccurs="0" maxOccurs="unbounded">
-						<complexType>
-							<sequence>
-								<element name="planta" type="int" />
-								<element name="porta" type="int" />
-							</sequence>
-						</complexType>
-					</element>
-				</sequence>
-				</complexType>
-		</element>
-	
+    <element name="acta">
+        <complexType>
+            <sequence>
+
+                <element name="assistents">
+                    <complexType>
+                        <sequence>
+
+                            <element name="assistent" maxOccurs="unbounded">
+                                <complexType>
+                                    <sequence>
+
+                                        <element name="pis">
+                                            <complexType>
+                                                <attribute name="planta" type="integer" use="required" />
+                                                <attribute name="porta" type="integer" use="required" />
+                                            </complexType>
+                                        </element>
+
+                                        <element name="vei" type="string" maxOccurs="unbounded" />
+
+                                    </sequence>
+                                </complexType>
+                            </element>
+
+                        </sequence>
+                    </complexType>
+                </element>
+                <!--        CIERRE DEL ELEEMENTO ASSISTENTS            -->
+
+                <element name="noassistents" minOccurs="0">
+                    <complexType>
+                        <sequence>
+
+                            <element name="pis" maxOccurs="unbounded">
+                                <complexType>
+                                    <attribute name="planta" type="integer" use="required" />
+                                    <attribute name="porta" type="integer" use="required" />
+                                </complexType>
+                            </element>
+
+                        </sequence>
+                    </complexType>
+                </element>
+                <!--      CIERRE DEL NOASSISTENTS      -->
+
+                <element name="ordredeldia">
+                    <complexType>
+                        <sequence>
+
+                            <element name="punt" maxOccurs="unbounded">
+                                <complexType>
+                                    <sequence>
+
+                                        <element name="paragraf" type="string" />
+
+                                    </sequence>
+                                    <attribute name="nr" type="integer" use="required" />
+                                </complexType>
+                            </element>
+
+                        </sequence>
+                    </complexType>
+                </element>
+                <!--    CIERRE DE ORDRE DEL DIA    -->
+
+                <element name="desenvolupament">
+                    <complexType>
+                        <sequence>
+
+                            <element name="entrada" maxOccurs="unbounded">
+                                <complexType>
+                                    <sequence>
+
+                                        <element name="paragraf" type="string" maxOccurs="unbounded" />
+
+                                    </sequence>
+                                </complexType>
+                            </element>
+
+                        </sequence>
+                    </complexType>
+                </element>
+                <!--     CIERRE DEL ELEMENTO DESENV.     -->
+
+                <element name="acords" minOccurs="0">
+                    <complexType>
+                        <sequence>
+
+                            <element name="entrada" maxOccurs="unbounded">
+                                <complexType>
+                                    <sequence>
+
+                                        <element name="paragraf" type="string" />
+
+                                    </sequence>
+                                </complexType>
+                            </element>
+
+                        </sequence>
+                    </complexType>
+                </element>
+                <!--     CIERRE DEL ELEMENTO ACORDS     -->
+
+                <element name="temespendents" minOccurs="0">
+                    <complexType>
+                        <sequence>
+
+                            <element name="entrada">
+                                <complexType>
+                                    <sequence>
+
+                                        <element name="paragraf" type="string" maxOccurs="unbounded" />
+
+                                    </sequence>
+                                </complexType>
+                            </element>
+
+                        </sequence>
+                    </complexType>
+                </element>
+                <!--     CIERRE DEL ELEMENTO TEMESPENDENTS     -->
 
 
-	
-	<element name="ordredeldia">
-		<complexType>
-			<sequence>
-				<element name="punt" minOccurs="0" maxOccurs="unbounded">
-					<complexType>
-						<attribute name="nr" type="int" />
-						<sequence>
-							<element name="paragraf" type="string" />
-						</sequence>
-					</complexType>
-				</element>
-			</sequence>
-		</complexType>
-	</element>
-	
-	<element name="desenvolupament">
-		<complexType>
-			<sequence>
-				<element name="entrada" minOccurs="0" maxOccurs="unbounded">
-					<complexType>
-						<sequence>
-							<element name="paragraf" type="string" minOccurs="0" maxOccurs="unbounded"/>
-						</sequence>
-					</complexType>
-				</element>
-			</sequence>
-		</complexType>
-	</element>
-	<element name="acords" minOccurs="0" maxOccurs="unbounded">
-		<complexType>
-			<sequence>
-				<element name="entrada" minOccurs="0" maxOccurs="unbounded">
-					<complexType>
-						<sequence>
-							<element name="paragraf" type="string" minOccurs="1" maxOccurs="unbounded"/>
-						</sequence>
-					</complexType>
-				</element>
-			</sequence>
-		</complexType>
-		</element>
-	<element name="temespendents" minOccurs="0" maxOccurs="unbounded">
-		<complexType>
-			<sequence>
-				<element name="entrada" minOccurs="0" maxOccurs="unbounded">
-					<complexType>
-						<sequence>
-							<element name="paragraf" type="string" minOccurs="1" maxOccurs="unbounded"/>
-						</sequence>
-					</complexType>
-				</element>
-			</sequence>
-		</complexType>
+                <!--    CIERRE DEL ELEMENTO RAIZ ACTA    -->
+            </sequence>
 
-	</element>
-</sequence>
-</complexType>
-</element>
+            <attribute name="sessio" type="integer" use="required" />
+            <attribute name="comunitat" type="string" use="required" />
+            <attribute name="data" type="date" use="required" />
+            <attribute name="inici" type="time" use="required" />
+            <attribute name="acabament" type="time" use="required" />
+            <attribute name="lloc" type="string" use="required" />
+            <attribute name="president" type="string" use="required" />
+            <attribute name="vicepresident" type="string" use="required" />
+            <attribute name="administrador" type="string" use="required" />
+            <attribute name="tipus" type="string" use="optional" />
+
+        </complexType>
+    </element>
+
 </schema>
