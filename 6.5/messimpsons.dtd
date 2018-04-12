@@ -1,0 +1,7 @@
+<!ELEMENT contactes (contacte*)>
+<!ELEMENT contacte (nom, email)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST contacte num_contacte ID #REQUIRED>
+<!ATTLIST contacte pare IDREF #IMPLIED>
+<!ATTLIST contacte mare IDREF #IMPLIED>

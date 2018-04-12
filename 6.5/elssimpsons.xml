@@ -1,0 +1,15 @@
+<contactes>
+	<contacte num_contacte="c1">
+		<nom>Homer Simpson</nom>
+		<email>homerhabilis76@jotmeil.com</email>
+
+	</contacte>
+	<contacte num_contacte="c2" pare="c1">
+		<nom>Bart Simpson</nom>
+		<email>bartolindrat@yimeil.com</email>
+
+	</contacte>
+
+
+
+</contactes>
