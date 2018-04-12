@@ -18,7 +18,7 @@
 	   	<element name="assistents">
 	  		<complexType>
 	  			 <sequence>
-	      			<element name="assistent">
+	      			<element name="assistent" minOccurs="0" maxOccurs="unbounded">
 	      				<complexType>
 	      					<sequence>	
 				      			<element name="pis">
@@ -29,18 +29,38 @@
 				      					</sequence>
 				      				</complexType>
 				      			</element>
-				      			<element name="vei" type="string"/>
+				      			<element name="vei" type="string"
+				      				minOccurs="0" maxOccurs="unbounded"/>
 					      	</sequence>
 					    </complexType>
 					</element>
 	      		</sequence>	
 			</complexType>
 		</element>
+		
+	
+		<element name="noassistents" minOccurs="0" maxOccurs="1" >
+				<complexType>
+					<sequence>
+					<element name="pis" minOccurs="0" maxOccurs="unbounded">
+						<complexType>
+							<sequence>
+								<element name="planta" type="int" />
+								<element name="porta" type="int" />
+							</sequence>
+						</complexType>
+					</element>
+				</sequence>
+				</complexType>
+		</element>
+	
 
+
+	
 	<element name="ordredeldia">
 		<complexType>
 			<sequence>
-				<element name="punt">
+				<element name="punt" minOccurs="0" maxOccurs="unbounded">
 					<complexType>
 						<sequence>
 							<element name="nr" type="int" />
@@ -55,17 +75,43 @@
 	<element name="desenvolupament">
 		<complexType>
 			<sequence>
-				<element name="entrada">
+				<element name="entrada" minOccurs="0" maxOccurs="unbounded">
 					<complexType>
 						<sequence>
-							<element name="paragraf" type="string"/>
+							<element name="paragraf" type="string" minOccurs="0" maxOccurs="unbounded"/>
 						</sequence>
 					</complexType>
 				</element>
 			</sequence>
 		</complexType>
 	</element>
+	<element name="acords" minOccurs="0" maxOccurs="unbounded">
+		<complexType>
+			<sequence>
+				<element name="entrada" minOccurs="0" maxOccurs="unbounded">
+					<complexType>
+						<sequence>
+							<element name="paragraf" type="string" minOccurs="1" maxOccurs="unbounded"/>
+						</sequence>
+					</complexType>
+				</element>
+			</sequence>
+		</complexType>
+		</element>
+	<element name="temespendents" minOccurs="0" maxOccurs="unbounded">
+		<complexType>
+			<sequence>
+				<element name="entrada" minOccurs="0" maxOccurs="unbounded">
+					<complexType>
+						<sequence>
+							<element name="paragraf" type="string" minOccurs="1" maxOccurs="unbounded"/>
+						</sequence>
+					</complexType>
+				</element>
+			</sequence>
+		</complexType>
 
+	</element>
 </sequence>
 </complexType>
 </element>
