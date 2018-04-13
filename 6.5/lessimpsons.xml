@@ -1,0 +1,31 @@
+<contactes>
+	<contacte num_contacte="c1">
+		<nom>Homer Simpson</nom>
+		<email>homerhabilis76@jotmeil.com</email>
+
+	</contacte>
+
+	<contacte num_contacte="c2" pare="c1" mare="c3">
+		<nom>Bart Simpson</nom>
+		<email>bartolindrat@yimeil.com</email>
+	</contacte>
+
+	<contacte num_contacte="c3" >
+		<nom>Marge Simpson</nom>
+		<email>marge@yimeil.com</email>
+	</contacte>
+
+	<contacte num_contacte="c4" pare="c1" mare="c3">
+		<nom>Maggie Simpson</nom>
+		<email>Maggie@yimeil.com</email>
+	</contacte>	
+
+	<contacte num_contacte="c5" pare="c1" mare="c3">
+		<nom>Lisa Simpson</nom>
+		<email>Lisa@yimeil.com</email>
+	</contacte>	
+
+
+
+
+</contactes>
