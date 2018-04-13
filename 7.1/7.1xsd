@@ -1,0 +1,23 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+targetNamespace="http://iesjoandaustria.org/acta"
+  elementFormDefault="qualified">
+
+  <element name="empleat">
+    <complexType>
+      <sequence>
+        <element name="denominacio">
+          <complexType>
+            <sequence>
+              <element name="titol" type="string" />
+              <element name="nom" type="string" />
+              <element name="cognoms" type="string" />
+            </sequence>
+          </complexType>
+        </element>
+        <element name="nif" type="string" />
+        <element name="carrec" type="string" />
+        <element name="antiguitat" type="string" />
+      </sequence>
+    </complexType>
+  </element>
+</schema>

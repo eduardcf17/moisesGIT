@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<emp:empleat xmlns:emp="http://agapesa.com/empleat">
+	<emp:denominacio>
+		<emp:titol></emp:titol>
+		<emp:nom></emp:nom>
+		<emp:cognoms></emp:cognoms>
+	</emp:denominacio>
+	<emp:nif></emp:nif>
+	<emp:carrec></emp:carrec>
+	<emp:antiguitat></emp:antiguitat>
+</emp:empleat>

@@ -1,0 +1,23 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="http://agapesa.com/empleat"
+  elementFormDefault="qualified">
+
+  <xs:element name="empleat">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="denominacio">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="titol" type="xs:string" />
+              <xs:element name="nom" type="xs:string" />
+              <xs:element name="cognoms" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="nif" type="xs:string" />
+        <xs:element name="carrec" type="xs:string" />
+        <xs:element name="antiguitat" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
