@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<empleats xmlns:e="http://agapesa.com/empleat">
+	<e:empleat>
+    <e:denominació>
+      <e:títol>Sra</e:títol>
+      <e:nom>Gracita</e:nom>
+      <e:cognoms>Suárez Cifuentes</e:cognoms>
+    </e:denominació>
+    <e:nif>17554385A</e:nif>
+    <e:càrrec>comprador</e:càrrec>
+    <e:antiguitat>2001</e:antiguitat>
+  </e:empleat>
+
+  <e:empleat>
+    <e:denominació>
+      <e:títol>Sr</e:títol>
+      <e:nom>Gra</e:nom>
+      <e:cognoms>Su</e:cognoms>
+    </e:denominació>
+    <e:nif>17385A</e:nif>
+    <e:càrrec>comprador</e:càrrec>
+    <e:antiguitat>2002</e:antiguitat>
+  </e:empleat>
+
+  <e:empleat>
+    <e:denominació>
+      <e:títol>Sra</e:títol>
+      <e:nom>maria</e:nom>
+      <e:cognoms>Sure Tes</e:cognoms>
+    </e:denominació>
+    <e:nif>17554385A</e:nif>
+    <e:càrrec>comprador</e:càrrec>
+    <e:antiguitat>2005 	</e:antiguitat>
+  </e:empleat>
+</empleats>
