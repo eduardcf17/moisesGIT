@@ -1,0 +1,23 @@
+<!-- Exemple d'acta amb alguns problemes addicionals -->
+<acta sessio="68"
+      comunitat="Junta de propietaris del Carrer de la Selva de Mar, 211"
+      data="2017-11-01"
+      inici="20:00:00"
+      acabament="23:45:00"
+      lloc="el pati de la Sra. Encarna"
+      president="Sr. Lluís Bendito i Sigüenza"
+      vicepresident="Sra. Ramona González Remolona"
+      administrador="Sr. Romualdo Malandrín Segura"
+      tipus="extraordinària" >
+  <assistents>
+    <assistent>
+      <pis planta="3" porta="1" />
+    </assistent>
+  </assistents>
+  <noassistents />
+  <ordredeldia />
+  <desenvolupament />
+  <acords />
+  <temespendents />
+</acta>
+

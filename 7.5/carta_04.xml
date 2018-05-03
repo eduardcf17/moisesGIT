@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Carta amb dades i occurrències no vàlides -->
+<carta>
+    <data>20 de abril del 90</data>
+    <salutacio>Hola chata</salutacio>
+    <salutacio>¿cómo estás?</salutacio>
+    <paragraf>
+        ¿Te sorprende que te escriba?
+        Tanto tiempo es normal.
+        Pues es que estaba aquí solo,
+        me había puesto a recordar,
+        me entró la melancolía
+        y te tenía que hablar.
+    </paragraf>
+    <comiat>Yo sigo con mis canciones y tú sigues con tus sueños.</comiat>
+</carta>

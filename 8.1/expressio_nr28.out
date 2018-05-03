@@ -1,0 +1,461 @@
+<canso any="1977" tp="si">
+    <titol>Heroes</titol>
+    <artista>David Bowie</artista>
+    <genere>Glam</genere>
+    <data>
+      <dia>27</dia>
+      <mes>Nov</mes>
+      <any>2007</any>
+    </data>
+    <stock>20</stock>
+  </canso><canso any="1970" tp="no">
+    <titol>Casey Jones</titol>
+    <artista>Grateful Dead</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Mar</mes>
+      <any>2008</any>
+    </data>
+    <stock>219</stock>
+  </canso><canso any="2008" tp="no" single="si">
+    <titol>Saints of Los Angeles</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Rock</genere>
+    <data>
+      <dia>15</dia>
+      <mes>Abr</mes>
+      <any>2008</any>
+    </data>
+    <stock>1</stock>
+  </canso><canso any="1989" tp="si">
+    <titol>Mr. Grieves</titol>
+    <artista>Pixies</artista>
+    <genere>Alternative</genere>
+    <data>
+      <dia>24</dia>
+      <mes>Jun</mes>
+      <any>2008</any>
+    </data>
+    <stock>6</stock>
+  </canso><canso any="1989" tp="si">
+    <titol>Crackity Jones</titol>
+    <artista>Pixies</artista>
+    <genere>Alternative</genere>
+    <data>
+      <dia>24</dia>
+      <mes>Jun</mes>
+      <any>2008</any>
+    </data>
+    <stock>143</stock>
+  </canso><canso any="2007" tp="si">
+    <titol>She Does</titol>
+    <artista>Locksley</artista>
+    <genere>Pop-Rock</genere>
+    <data>
+      <dia>28</dia>
+      <mes>Ago</mes>
+      <any>2008</any>
+    </data>
+    <stock>68</stock>
+  </canso><canso any="2002" tp="no" single="si">
+    <titol>Bandages</titol>
+    <artista>Hot Hot Heat</artista>
+    <genere>Alternative</genere>
+    <data>
+      <dia>23</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>145</stock>
+  </canso><canso any="2006" tp="si" single="si">
+    <titol>Well Thought Out Twinkles</titol>
+    <artista>Silversun Pickups</artista>
+    <genere>Indie Rock</genere>
+    <data>
+      <dia>28</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>74</stock>
+  </canso><canso any="2008" tp="no">
+    <titol>Desperate Times , Desperate Measures</titol>
+    <artista>Underoath</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>6</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>258</stock>
+  </canso><canso any="1987" tp="no">
+    <titol>California &#xC3;&#x153;ber Alles</titol>
+    <artista>Dead Kennedys</artista>
+    <genere>Punk</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>288</stock>
+  </canso><canso any="2003" tp="si">
+    <titol>Mud on the Tires</titol>
+    <artista>Brad Paisley</artista>
+    <genere>Country</genere>
+    <data>
+      <dia>16</dia>
+      <mes>Dec</mes>
+      <any>2008</any>
+    </data>
+    <stock>150</stock>
+  </canso><canso any="2000" tp="no">
+    <titol>Voices</titol>
+    <artista>Disturbed</artista>
+    <genere>Nu-Metal</genere>
+    <data>
+      <dia>2</dia>
+      <mes>Mar</mes>
+      <any>2010</any>
+    </data>
+    <stock>226</stock>
+  </canso><canso any="1980" tp="no">
+    <titol>Los Angeles</titol>
+    <artista>X</artista>
+    <genere>Punk</genere>
+    <data>
+      <dia>23</dia>
+      <mes>Mar</mes>
+      <any>2010</any>
+    </data>
+    <stock>247</stock>
+  </canso><canso any="1967" tp="si">
+    <titol>Up From the Skies</titol>
+    <artista>The Jimi Hendrix Experience</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>30</dia>
+      <mes>Mar</mes>
+      <any>2010</any>
+    </data>
+    <stock>268</stock>
+  </canso><canso any="1970" tp="si">
+    <titol>Cumberland Blues</titol>
+    <artista>Grateful Dead</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>44</stock>
+  </canso><canso any="1987" tp="no">
+    <titol>Throwing Stones</titol>
+    <artista>Grateful Dead</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>211</stock>
+  </canso><canso any="1974" tp="si">
+    <titol>U.S. Blues</titol>
+    <artista>Grateful Dead</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>234</stock>
+  </canso><canso any="2006" tp="no">
+    <titol>Cherry Waves</titol>
+    <artista>Deftones</artista>
+    <genere>Rock</genere>
+    <data>
+      <dia>8</dia>
+      <mes>Jun</mes>
+      <any>2010</any>
+    </data>
+    <stock>196</stock>
+  </canso><canso any="1988" tp="si">
+    <titol>Crazy Babies</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>15</dia>
+      <mes>Jun</mes>
+      <any>2010</any>
+    </data>
+    <stock>74</stock>
+  </canso><canso any="2007" tp="no" single="si">
+    <titol>New Dark Ages</titol>
+    <artista>Bad Religion</artista>
+    <genere>Punk</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Jul</mes>
+      <any>2010</any>
+    </data>
+    <stock>33</stock>
+  </canso><canso any="1989" tp="no">
+    <titol>Thieves</titol>
+    <artista>Ministry</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>10</dia>
+      <mes>Ago</mes>
+      <any>2010</any>
+    </data>
+    <stock>236</stock>
+  </canso><canso any="2008" tp="no">
+    <titol>Strange Times</titol>
+    <artista>The Black Keys</artista>
+    <genere>Rock</genere>
+    <data>
+      <dia>17</dia>
+      <mes>Ago</mes>
+      <any>2010</any>
+    </data>
+    <stock>45</stock>
+  </canso><canso any="2007" tp="no" single="si">
+    <titol>Straight Lines</titol>
+    <artista>Silverchair</artista>
+    <genere>Alternative</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Set</mes>
+      <any>2010</any>
+    </data>
+    <stock>221</stock>
+  </canso><canso any="1967" tp="no">
+    <titol>Love Me Two Times</titol>
+    <artista>The Doors</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>26</dia>
+      <mes>Oct</mes>
+      <any>2010</any>
+    </data>
+    <extres>Core</extres>
+    <stock>227</stock>
+  </canso><canso any="1970" tp="no">
+    <titol>Roadhouse Blues</titol>
+    <artista>The Doors</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>26</dia>
+      <mes>Oct</mes>
+      <any>2010</any>
+    </data>
+    <extres>Core</extres>
+    <stock>102</stock>
+  </canso><canso any="2005" tp="si" single="si">
+    <titol>Open My Eyes</titol>
+    <artista>Inhabited</artista>
+    <genere>Pop-Rock</genere>
+    <data>
+      <dia>28</dia>
+      <mes>Dec</mes>
+      <any>2010</any>
+    </data>
+    <extres>Core</extres>
+    <stock>6</stock>
+  </canso><canso any="1955" tp="no">
+    <titol>Folsom Prison Blues</titol>
+    <artista>Johnny Cash</artista>
+    <genere>Country</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Gen</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>148</stock>
+  </canso><canso any="1959" tp="si">
+    <titol>I Got Stripes</titol>
+    <artista>Johnny Cash</artista>
+    <genere>Country</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Gen</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>86</stock>
+  </canso><canso any="1964" tp="no">
+    <titol>The Ballad of Ira Hayes</titol>
+    <artista>Johnny Cash</artista>
+    <genere>Country</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Gen</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>270</stock>
+  </canso><canso any="2008" tp="no">
+    <titol>Night Lies</titol>
+    <artista>Bang Camaro</artista>
+    <genere>Rock</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Gen</mes>
+      <any>2011</any>
+    </data>
+    <stock>134</stock>
+  </canso><canso any="2010" tp="si">
+    <titol>Airplanes</titol>
+    <artista>B.o.B (featuring Hayley Williams)</artista>
+    <genere>Hip-Hop/Rap</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Feb</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>95</stock>
+  </canso><canso any="1989" tp="si">
+    <titol>I Go to Extremes</titol>
+    <artista>Billy Joel</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Mar</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>68</stock>
+  </canso><canso any="2006" tp="no" single="si">
+    <titol>Through the Fire and Flames</titol>
+    <artista>DragonForce</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>29</dia>
+      <mes>Mar</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>144</stock>
+  </canso><canso any="1994" tp="no" single="si">
+    <titol>Lightning Crashes</titol>
+    <artista>Live</artista>
+    <genere>Alternative</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Jun</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>124</stock>
+  </canso><canso any="1983" tp="no">
+    <titol>Rock of Ages</titol>
+    <artista>Def Leppard</artista>
+    <genere>Rock</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Ago</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>72</stock>
+  </canso><canso any="2011" tp="no">
+    <titol>Monarchy of Roses</titol>
+    <artista>Red Hot Chili Peppers</artista>
+    <genere>Alternative</genere>
+    <data>
+      <dia>30</dia>
+      <mes>Ago</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>243</stock>
+  </canso><canso any="1993" tp="no">
+    <titol>All Apologies</titol>
+    <artista>Nirvana</artista>
+    <genere>Grunge</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Set</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>153</stock>
+  </canso><canso any="2011" tp="si">
+    <titol>In Waves</titol>
+    <artista>Trivium</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>29</dia>
+      <mes>Nov</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>237</stock>
+  </canso><canso any="1968" tp="si">
+    <titol>Gypsy Eyes</titol>
+    <artista>The Jimi Hendrix Experience</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Dec</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>131</stock>
+  </canso><canso any="2005" tp="no">
+    <titol>I Write Sins Not Tragedies</titol>
+    <artista>Panic! at the Disco</artista>
+    <genere>Emo</genere>
+    <data>
+      <dia>27</dia>
+      <mes>Dec</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>5</stock>
+  </canso><canso any="1981" tp="si">
+    <titol>Private Eyes</titol>
+    <artista>Hall and Oates</artista>
+    <genere>Pop-Rock</genere>
+    <data>
+      <dia>10</dia>
+      <mes>Gen</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core and Pro-Guitar/Bass</extres>
+    <stock>231</stock>
+  </canso><canso any="2009" tp="si" single="si">
+    <titol>Fireflies</titol>
+    <artista>Owl City</artista>
+    <genere>Pop/Dance/Electronic</genere>
+    <data>
+      <dia>19</dia>
+      <mes>Jun</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>265</stock>
+  </canso><canso any="2009" tp="no">
+    <titol>Horseshoes and Handgrenades</titol>
+    <artista>Green Day</artista>
+    <genere>Rock</genere>
+    <data>
+      <dia>13</dia>
+      <mes>Nov</mes>
+      <any>2012</any>
+    </data>
+    <extres>Backing vocals</extres>
+    <stock>68</stock>
+  </canso><canso any="2014" tp="no" single="si">
+    <titol>My Own Eyes</titol>
+    <artista>"Weird Al" Yankovic"</artista>
+    <genere>Novelty</genere>
+    <data>
+      <dia>6</dia>
+      <mes>Oct</mes>
+      <any>2017</any>
+    </data>
+    <extres>Harmonies</extres>
+    <stock>210</stock>
+  </canso>

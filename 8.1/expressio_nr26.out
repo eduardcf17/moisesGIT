@@ -1,0 +1,138 @@
+<canso any="2007" tp="si">
+    <titol>She Does</titol>
+    <artista>Locksley</artista>
+    <genere>Pop-Rock</genere>
+    <data>
+      <dia>28</dia>
+      <mes>Ago</mes>
+      <any>2008</any>
+    </data>
+    <stock>68</stock>
+  </canso><canso any="2008" tp="si">
+    <titol>She's a Handsome Woman</titol>
+    <artista>Panic at the Disco</artista>
+    <genere>Pop-Rock</genere>
+    <data>
+      <dia>16</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>154</stock>
+  </canso><canso any="1985" tp="si" single="si">
+    <titol>She Sells Sanctuary</titol>
+    <artista>The Cult</artista>
+    <genere>Rock</genere>
+    <data>
+      <dia>23</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>296</stock>
+  </canso><canso any="1989" tp="no">
+    <titol>She Goes Down</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>210</stock>
+  </canso><canso any="1999" tp="no">
+    <titol>She Thinks My Tractor's Sexy</titol>
+    <artista>Kenny Chesney</artista>
+    <genere>Country</genere>
+    <data>
+      <dia>2</dia>
+      <mes>Feb</mes>
+      <any>2010</any>
+    </data>
+    <stock>137</stock>
+  </canso><canso any="1967" tp="si">
+    <titol>She's So Fine</titol>
+    <artista>The Jimi Hendrix Experience</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>30</dia>
+      <mes>Mar</mes>
+      <any>2010</any>
+    </data>
+    <stock>286</stock>
+  </canso><canso any="1977" tp="si">
+    <titol>She's Always a Woman</titol>
+    <artista>Billy Joel</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Mar</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>160</stock>
+  </canso><canso any="2001" tp="no">
+    <titol>She Hates Me</titol>
+    <artista>Puddle of Mudd</artista>
+    <genere>Alternative</genere>
+    <data>
+      <dia>21</dia>
+      <mes>Jun</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>29</stock>
+  </canso><canso any="1990" tp="no">
+    <titol>Shelter Me</titol>
+    <artista>Cinderella</artista>
+    <genere>Glam</genere>
+    <data>
+      <dia>24</dia>
+      <mes>Abr</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>119</stock>
+  </canso><canso any="2012" tp="desconegut">
+    <titol>She's So Mean</titol>
+    <artista>Matchbox Twenty</artista>
+    <genere>Alternative</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Set</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>139</stock>
+  </canso><canso any="1994" tp="no">
+    <titol>She</titol>
+    <artista>Green Day</artista>
+    <genere>Punk</genere>
+    <data>
+      <dia>13</dia>
+      <mes>Nov</mes>
+      <any>2012</any>
+    </data>
+    <extres>Backing vocals</extres>
+    <stock>81</stock>
+  </canso><canso any="1990" tp="si">
+    <titol>She Talks to Angels</titol>
+    <artista>The Black Crowes</artista>
+    <genere>Rock</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Dec</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core and Pro-Guitar/Bass</extres>
+    <stock>89</stock>
+  </canso><canso any="2013" tp="si" single="si">
+    <titol>Shepherd of Fire</titol>
+    <artista>Avenged Sevenfold</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>13</dia>
+      <mes>Gen</mes>
+      <any>2017</any>
+    </data>
+    <extres>Core</extres>
+    <stock>139</stock>
+  </canso>

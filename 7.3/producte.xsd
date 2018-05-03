@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://agapesa.com/producte"
+    elementFormDefault="qualified">
+    <xs:element name="producte">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="denominacio" type="xs:string" />
+                <xs:element name="ref" type="xs:string" />
+                <xs:element name="marca" type="xs:string" />
+                <xs:element name="ean" type="xs:string" />
+                <xs:element name="preu" type="xs:decimal" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
+

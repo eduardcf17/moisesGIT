@@ -1,0 +1,20 @@
+<canso any="1978" tp="si">
+    <titol>Good Times Roll</titol>
+    <artista>The Cars</artista>
+    <genere>Rock</genere>
+    <data>
+      <dia>27</dia>
+      <mes>Mai</mes>
+      <any>2008</any>
+    </data>
+  </canso><canso any="1981" tp="si">
+    <titol>Vital Signs</titol>
+    <artista>Rush</artista>
+    <genere>Prog</genere>
+    <data>
+      <dia>23</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>0</stock>
+  </canso>

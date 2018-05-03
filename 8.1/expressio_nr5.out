@@ -1,0 +1,11 @@
+<canso any="1981" tp="si" single="si">
+    <titol>Juke Box Hero</titol>
+    <artista>Foreigner</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Nov</mes>
+      <any>2007</any>
+    </data>
+    <stock>242</stock>
+  </canso>

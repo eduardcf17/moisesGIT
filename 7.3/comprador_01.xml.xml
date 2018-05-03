@@ -1,0 +1,29 @@
+<comprador
+  xmlns:p="http://agapesa.com/producte"
+  xmlns:e="http://agapesa.com/empleat" >
+  <e:empleat>
+   <e:denominacio>
+      <e:titol>Sra</e:titol>
+      <e:nom>Gracita</e:nom>
+      <e:cognoms>Suárez Cifuentes</e:cognoms>
+    </e:denominacio>
+    <e:nif>175A</e:nif>
+    <e:carrec>comprar</e:carrec>
+    <e:antiguitat>1995</e:antiguitat>
+  </e:empleat>
+  <p:producte>
+    <p:denominació>LLAPIS</p:denominació>
+    <p:ref>23456</p:ref>
+    <p:marca>vic</p:marca>
+    <p:ean>678992</p:ean>
+    <p:preu>1.05</p:preu>
+  </p:producte>
+</comprador>
+
+
+
+
+
+
+
+

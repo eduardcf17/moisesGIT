@@ -1,0 +1,10 @@
+acta_04.xml:11: element acta: Schemas validity error : Element 'acta', attribute 'sessio': 'seixanta vuit' is not a valid value of the atomic type 'xs:integer'.
+acta_04.xml:11: element acta: Schemas validity error : Element 'acta', attribute 'data': '1 de setembre de 2017' is not a valid value of the atomic type 'xs:date'.
+acta_04.xml:11: element acta: Schemas validity error : Element 'acta', attribute 'inici': 'vuit del vespre' is not a valid value of the atomic type 'xs:time'.
+acta_04.xml:11: element acta: Schemas validity error : Element 'acta', attribute 'acabament': 'tres quarts d'once de la nit' is not a valid value of the atomic type 'xs:time'.
+acta_04.xml:14: element pis: Schemas validity error : Element 'pis', attribute 'planta': '1er' is not a valid value of the atomic type 'xs:integer'.
+acta_04.xml:14: element pis: Schemas validity error : Element 'pis', attribute 'porta': '1ra' is not a valid value of the atomic type 'xs:integer'.
+acta_04.xml:37: element pis: Schemas validity error : Element 'pis', attribute 'planta': '4rt' is not a valid value of the atomic type 'xs:integer'.
+acta_04.xml:38: element pis: Schemas validity error : Element 'pis', attribute 'porta': '2na' is not a valid value of the atomic type 'xs:integer'.
+acta_04.xml:41: element punt: Schemas validity error : Element 'punt', attribute 'nr': 'primer' is not a valid value of the atomic type 'xs:integer'.
+acta_04.xml fails to validate

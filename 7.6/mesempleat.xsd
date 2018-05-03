@@ -1,0 +1,75 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="empleat" type="Empleat"/>
+    
+
+<xs:complexType name="Empleat">
+      <xs:sequence>
+        <xs:element name="denominacio" type="DenominacioEmpleat"/>
+        <xs:element name="nif" type="Nif" />
+        <xs:element name="carrec" type="CarrecEmpleat" />
+        <xs:element name="antiguitat" type="Antiguitat" />
+        <xs:element name="contacte" type="ContacteEmpleat" maxOccurs="unbounded"/>
+      </xs:sequence>
+</xs:complexType>
+
+<xs:simpleType name="Nif">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="[0-9]{8}[A-Z]"/>
+  </xs:restriction>
+</xs:simpleType>
+
+
+<xs:simpleType name="Antiguitat">
+  <xs:restriction base="xs:integer">
+    <xs:minInclusive value="1999"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:complexType name="DenominacioEmpleat">
+  <xs:sequence>
+      <xs:element name="titol" type="TitolDenominacio" />
+      <xs:element name="nom" type="xs:string" />
+      <xs:element name="cognoms" type="xs:string" />
+  </xs:sequence>
+</xs:complexType>
+
+<xs:simpleType name="TitolDenominacio">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="Sra." />
+    <xs:enumeration value="Sr." />
+    <xs:enumeration value="Dr." />
+    <xs:enumeration value="Dra." />
+    <xs:enumeration value="Estimable." />
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="CarrecEmpleat">
+  <xs:restriction base="xs:token">
+    <xs:enumeration value="mindundi" />
+    <xs:enumeration value="mandamenys" />
+    <xs:enumeration value="mandames" />
+    <xs:enumeration value="superboss" />
+  </xs:restriction>
+</xs:simpleType>
+
+
+<xs:simpleType name="ContacteEmpleat">
+  <xs:restriction base="xs:string">
+    <xs:attribute name="tipus" type="TipusContacte" use="required"/>
+  </xs:restriction>
+</xs:simpleType>
+
+
+<xs:simpleType name="TipusContacte">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="email" />
+    <xs:enumeration value="mobil" />
+    <xs:enumeration value="fax" />
+    <xs:enumeration value="fix" />
+    <xs:enumeration value="postal" />
+  </xs:restriction>
+</xs:simpleType>
+
+
+</xs:schema>

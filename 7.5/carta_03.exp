@@ -1,0 +1,2 @@
+carta_03.xml:6: element comiat: Schemas validity error : Element 'comiat': This element is not expected. Expected is ( paragraf ).
+carta_03.xml fails to validate

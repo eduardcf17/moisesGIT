@@ -1,0 +1,27 @@
+<!-- Exemple d'acta amb continguts mínims -->
+<acta sessio="68"
+    comunitat="Junta de propietaris del Carrer de la Selva de Mar, 211"
+    data="2017-11-01"
+    inici="20:00:00"
+    acabament="23:45:00"
+    lloc="el pati de la Sra. Encarna"
+    president="Sr. Lluís Bendito i Sigüenza"
+    vicepresident="Sra. Ramona González Remolona"
+    administrador="Sr. Romualdo Malandrín Segura" >
+    <assistents>
+        <assistent>
+            <pis planta="1" porta="1" />
+            <vei>Sra. Josefa Ramos Granados</vei>
+        </assistent>
+    </assistents>
+    <ordredeldia>
+        <punt nr="1">
+            <paragraf>Lectura i aprovació, si escau, de l'acta anterior</paragraf>
+        </punt>
+    </ordredeldia>
+    <desenvolupament>
+        <entrada>
+            <paragraf>Punt 1. La sra. vicepresidenta llegeix l’acta de la reunió.</paragraf>
+        </entrada>
+    </desenvolupament>
+</acta>

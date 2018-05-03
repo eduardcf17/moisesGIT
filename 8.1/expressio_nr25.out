@@ -1,0 +1,23 @@
+<canso any="2014" tp="no" single="si">
+    <titol>Rebellion (ft. Daron Malakian)</titol>
+    <artista>Linkin Park</artista>
+    <genere>Nu-Metal</genere>
+    <data>
+      <dia>6</dia>
+      <mes>Oct</mes>
+      <any>2017</any>
+    </data>
+    <extres>Harmonies</extres>
+    <stock>24</stock>
+  </canso><canso any="2012" tp="desconegut" single="si">
+    <titol>King for a Day (ft. Kellin Quinn)</titol>
+    <artista>Pierce the Veil</artista>
+    <genere>Emo</genere>
+    <data>
+      <dia>6</dia>
+      <mes>Oct</mes>
+      <any>2017</any>
+    </data>
+    <extres>Harmonies</extres>
+    <stock>241</stock>
+  </canso>

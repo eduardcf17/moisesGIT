@@ -1,0 +1,13 @@
+<empleat>
+    <denominacio>
+        <titol>Sra.</titol>
+        <nom>Gracita</nom>
+        <cognoms>Suárez Cifuentes</cognoms>
+    </denominacio>
+    <nif>17554385A</nif>
+    <carrec>mandamenys</carrec>
+    <antiguitat>2001</antiguitat>
+    <contacte tipus="email">gracita.suarez@agapesa.com</contacte>
+    <contacte tipus="mobil">666333222</contacte>
+    <contacte tipus="fax">936333222</contacte>
+</empleat>

@@ -1,0 +1,5 @@
+acta_06.xml:45: element paragraf: Schemas validity error : Element 'paragraf': This element is not expected.
+acta_06.xml:57: element entrada: Schemas validity error : Element 'entrada': Missing child element(s). Expected is ( paragraf ).
+acta_06.xml:63: element entrada: Schemas validity error : Element 'entrada': Missing child element(s). Expected is ( paragraf ).
+acta_06.xml:69: element entrada: Schemas validity error : Element 'entrada': Missing child element(s). Expected is ( paragraf ).
+acta_06.xml fails to validate

@@ -1,0 +1,16 @@
+<expressions alumne="cf17eduard.corral@iesjoandaustria.org">
+	<expression nr="1">/</expression>
+	<expression nr="2">// comment()</expression>
+	<expression nr="3"></expression>
+	<expression nr="4">//canso[1]</expression>
+	<expression nr="5">//canso[2] </expression>
+	<expression nr="6">//canso[last()] </expression>
+	<expression nr="7">//canso[last()-1] </expression>
+	<expression nr="8">//canso[last()-1] </expression>
+	<expression nr="9">//canso[position()&lt;5]</expression>
+
+
+
+
+
+</expressions>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="expressions">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="expressio" type="Expressió" minOccurs="0" maxOccurs="unbounded" />
+      </xs:sequence>
+      <xs:attribute name="alumne" type="Email" use="required" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:complexType name="Expressió">
+    <xs:simpleContent>
+      <xs:extension base="NonEmptyString">
+        <xs:attribute name="nr" type="xs:integer" use="required" />
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
+  <xs:simpleType name="Email">
+    <xs:restriction base="xs:string">
+      <xs:pattern value=".+@iesjoandaustria\.org"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="NonEmptyString">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>
