@@ -6,8 +6,9 @@
 	<expression nr="5">//canso[2] </expression>
 	<expression nr="6">//canso[last()] </expression>
 	<expression nr="7">//canso[last()-1] </expression>
-	<expression nr="8">//canso[last()-1] </expression>
-	<expression nr="9">//canso[position()&lt;5]</expression>
+	<expression nr="8">//canso[position()&lt;5]</expression>
+	<expression nr="9">//canso[position()&gt;last()-5]</expression>
+	<expression nr="10">count(/cansons/canso)</expression>
 
 
 
