@@ -1,15 +1,33 @@
 <expressions alumne="cf17eduard.corral@iesjoandaustria.org">
-	<expression nr="1">/</expression>
-	<expression nr="2">// comment()</expression>
-	<expression nr="3"></expression>
-	<expression nr="4">//canso[1]</expression>
-	<expression nr="5">//canso[2] </expression>
-	<expression nr="6">//canso[last()] </expression>
-	<expression nr="7">//canso[last()-1] </expression>
-	<expression nr="8">//canso[position()&lt;5]</expression>
-	<expression nr="9">//canso[position()&gt;last()-5]</expression>
-	<expression nr="10">count(/cansons/canso)</expression>
-
+	<expressio nr="1">/</expressio>
+	<expressio nr="2">// comment()</expressio>
+	<expressio nr="3">cansons/canso</expressio>
+	<expressio nr="4">//canso[1]</expressio>
+	<expressio nr="5">//canso[2] </expressio>
+	<expressio nr="6">//canso[last()] </expressio>
+	<expressio nr="7">//canso[last()-1] </expressio>
+	<expressio nr="8">//canso[position()&lt;5]</expressio>
+	<expressio nr="9">//canso[position()&gt;last()-5]</expressio>
+	<expressio nr="10">count(/cansons/canso)</expressio>
+	<expressio nr="11">//canso[@single="si"]</expressio>
+	<expressio nr="12">//canso[genere="Metal"]</expressio>
+	<expressio nr="13">//canso[@single="si"][@tp="si"]</expressio>
+	<expressio nr="14">//canso[not(@single="si")]</expressio>
+	<expressio nr="15">//canso[not(@single="si") and not(@tp="si")]</expressio>
+	<expressio nr="16">//canso[@single="si" or not(@tp="si")]</expressio>
+	<expressio nr="17">//canso[1]/attribute::*</expressio>
+	<expressio nr="18">//canso[1]/data/any</expressio>
+	<expressio nr="19">//canso[1]/titol/text()</expressio>
+	<expressio nr="20">concat(//canso[1]/titol/text()," (", //canso[1]/artista/text(),")")</expressio>
+	<expressio nr="21">//canso[data/dia="20"]/data/mes </expressio>
+	
+	<expressio nr="22">//canso[artista="Metallica"]/titol </expressio>
+	<expressio nr="23">//canso[artista="Metallica"]/@any </expressio>
+	<expressio nr="24">//canso[@any=data/any]</expressio>
+	<expressio nr="25">//canso[extres="Harmonies"] [string-length(titol/text())&gt;12]</expressio>
+	<expressio nr="26">//canso[starts-with(titol, "She")]</expressio>
+	<expressio nr="27">//canso[substring(1,2,3)=ing]
+</expressio>
 
 
 
