@@ -26,10 +26,13 @@
 	<expressio nr="24">//canso[@any=data/any]</expressio>
 	<expressio nr="25">//canso[extres="Harmonies"] [string-length(titol/text())&gt;12]</expressio>
 	<expressio nr="26">//canso[starts-with(titol, "She")]</expressio>
-	<expressio nr="27">//canso[substring(1,2,3)=ing]
+	<expressio nr="27">//canso[substring(titol,2,3)="ing"]</expressio>
+	<expressio nr="28">//canso[substring(titol, string-length(titol)-string-length("es")+1)="es"]</expressio>
+	<expressio nr="29">//canso[not(stock) or stock="0"]</expressio>
+	<expressio nr="30">sum(//canso[artista="The Cars" ]/stock)</expressio>
+	<expressio nr="31">sum(//canso [artista="The Cars"] [titol!="Bye Bye Love"]/stock)</expressio>
+	<expressio nr="32">//canso/data[mes="Mar" or mes="Abr" or mes="Mai" or  mes="Jun"]/parent::node()/titol
 </expressio>
-
-
-
-
+	<expressio nr="33">//canso/data[(mes="Mar" and dia &gt;=21) or mes="Abr" or mes="Mai" or (dia &lt;=20 and mes="Jun")]/parent::node()/titol</expressio>
+	<expressio nr="34">//canso[@single="si" and @tp="si" and genere="Rock" and extres="Core" and (stock &lt;50 or stock &gt; 225) and artista [contains(text(),"Day")]]/titol/text()</expressio>
 </expressions>
