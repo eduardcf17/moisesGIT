@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="reptes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="repte" type="Repte" minOccurs="0" maxOccurs="unbounded" />
+            </xs:sequence>
+            <xs:attribute name="alumne" type="Email" use="required" />
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="Repte">
+        <xs:sequence>
+            <xs:element name="enunciat" type="NonEmptyString" />
+            <xs:element name="pista" type="NonEmptyString" maxOccurs="unbounded" />
+            <xs:element name="solucio" type="NonEmptyString" />
+            <xs:element name="sortida" type="NonEmptyString" />
+        </xs:sequence>
+        <xs:attribute name="nr" type="xs:integer" use="required" />
+    </xs:complexType>
+
+    <xs:simpleType name="Email">
+        <xs:restriction base="xs:string">
+            <xs:pattern value=".+@iesjoandaustria\.org"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="NonEmptyString">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>

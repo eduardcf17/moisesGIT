@@ -21,7 +21,12 @@ do
     grep -F "$p" $xsd &> /dev/null || error "Comprova que aparegui \"$p\" a $xsd"
 done
 
+<<<<<<< HEAD
 xmllint --noout --schema $xsd $xmlok &> /dev/null || error "$xmlok no valida contra $xsd"
 xmllint --noout --schema $xsd $xmlko &> /dev/null && error "$xmlko valida contra $xsd però no ho hauria de fer"
+=======
+xmllint --noout --schema $xsd $xmlok || error "$xmlok no valida contra $xsd"
+xmllint --noout --schema $xsd $xmlko && error "$xmlko valida contra $xsd però no ho hauria de fer"
+>>>>>>> 01b79b440732576c233934e47a0ecf66d5af233f
 
 echo "Validacions bàsiques superades. Considera lliurar el fitxer $xsd"

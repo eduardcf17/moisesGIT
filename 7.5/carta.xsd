@@ -1,5 +1,6 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 	<xs:element name="carta" type="Carta"/>
+<<<<<<< HEAD
 		
 		<xs:complexType name="Carta" >
 			<xs:sequence>
@@ -20,3 +21,26 @@
 		</xs:complexType>
 
 </xs:schema>
+=======
+	
+
+
+	<xs:complexType name="Carta" >
+		<xs:sequence>
+			<xs:element name="data" type="xs:date"/>		
+			<xs:element name="salutacio" type="xs:string"/>
+			<xs:element name="paragraf" type="Parragraf" minOccurs="1" maxOccurs="unbounded"/>
+			<xs:element name="comiat" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="Parragraf" mixed="true">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
+			<xs:element name="subrallat" type="Parragraf"/>
+			<xs:element name="negreta" type="Parragraf"/>
+			<xs:element name="cursiva" type="Parragraf"/>
+		</xs:choice>
+	</xs:complexType>
+
+</xs:schema>
+>>>>>>> 01b79b440732576c233934e47a0ecf66d5af233f

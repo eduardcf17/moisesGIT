@@ -13,6 +13,7 @@
       </xs:sequence>
 </xs:complexType>
 
+<<<<<<< HEAD
 
 
   <xs:complexType name="ContacteEmpleat">
@@ -34,6 +35,8 @@
   </xs:restriction>
 </xs:simpleType>
 
+=======
+>>>>>>> 01b79b440732576c233934e47a0ecf66d5af233f
 <xs:simpleType name="Nif">
   <xs:restriction base="xs:string">
     <xs:pattern value="[0-9]{8}[A-Z]"/>
@@ -55,8 +58,23 @@
   </xs:sequence>
 </xs:complexType>
 
+<<<<<<< HEAD
 <xs:simpleType name="CarrecEmpleat">
   <xs:restriction base="xs:string">
+=======
+<xs:simpleType name="TitolDenominacio">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="Sra." />
+    <xs:enumeration value="Sr." />
+    <xs:enumeration value="Dr." />
+    <xs:enumeration value="Dra." />
+    <xs:enumeration value="Estimable." />
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="CarrecEmpleat">
+  <xs:restriction base="xs:token">
+>>>>>>> 01b79b440732576c233934e47a0ecf66d5af233f
     <xs:enumeration value="mindundi" />
     <xs:enumeration value="mandamenys" />
     <xs:enumeration value="mandames" />
@@ -65,6 +83,7 @@
 </xs:simpleType>
 
 
+<<<<<<< HEAD
 <xs:simpleType name="TitolDenominacio">
   <xs:restriction base="xs:string">
     <xs:enumeration value="Sra." />
@@ -76,3 +95,24 @@
 </xs:simpleType>
 
 </xs:schema>
+=======
+<xs:simpleType name="ContacteEmpleat">
+  <xs:restriction base="xs:string">
+    <xs:attribute name="tipus" type="TipusContacte" use="required"/>
+  </xs:restriction>
+</xs:simpleType>
+
+
+<xs:simpleType name="TipusContacte">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="email" />
+    <xs:enumeration value="mobil" />
+    <xs:enumeration value="fax" />
+    <xs:enumeration value="fix" />
+    <xs:enumeration value="postal" />
+  </xs:restriction>
+</xs:simpleType>
+
+
+</xs:schema>
+>>>>>>> 01b79b440732576c233934e47a0ecf66d5af233f

@@ -12,9 +12,35 @@
 	<expressio nr="11">//canso[@single="si"]</expressio>
 	<expressio nr="12">//canso[genere="Metal"]</expressio>
 	<expressio nr="13">//canso[@single="si"][@tp="si"]</expressio>
+<<<<<<< HEAD
 	<expressio nr="14">//canso[@single!="si"]</expressio>
 
 
 
 
+=======
+	<expressio nr="14">//canso[not(@single="si")]</expressio>
+	<expressio nr="15">//canso[not(@single="si") and not(@tp="si")]</expressio>
+	<expressio nr="16">//canso[@single="si" or not(@tp="si")]</expressio>
+	<expressio nr="17">//canso[1]/attribute::*</expressio>
+	<expressio nr="18">//canso[1]/data/any</expressio>
+	<expressio nr="19">//canso[1]/titol/text()</expressio>
+	<expressio nr="20">concat(//canso[1]/titol/text()," (", //canso[1]/artista/text(),")")</expressio>
+	<expressio nr="21">//canso[data/dia="20"]/data/mes </expressio>
+	
+	<expressio nr="22">//canso[artista="Metallica"]/titol </expressio>
+	<expressio nr="23">//canso[artista="Metallica"]/@any </expressio>
+	<expressio nr="24">//canso[@any=data/any]</expressio>
+	<expressio nr="25">//canso[extres="Harmonies"] [string-length(titol/text())&gt;12]</expressio>
+	<expressio nr="26">//canso[starts-with(titol, "She")]</expressio>
+	<expressio nr="27">//canso[substring(titol,2,3)="ing"]</expressio>
+	<expressio nr="28">//canso[substring(titol, string-length(titol)-string-length("es")+1)="es"]</expressio>
+	<expressio nr="29">//canso[not(stock) or stock="0"]</expressio>
+	<expressio nr="30">sum(//canso[artista="The Cars" ]/stock)</expressio>
+	<expressio nr="31">sum(//canso [artista="The Cars"] [titol!="Bye Bye Love"]/stock)</expressio>
+	<expressio nr="32">//canso/data[mes="Mar" or mes="Abr" or mes="Mai" or  mes="Jun"]/parent::node()/titol
+</expressio>
+	<expressio nr="33">//canso/data[(mes="Mar" and dia &gt;=21) or mes="Abr" or mes="Mai" or (dia &lt;=20 and mes="Jun")]/parent::node()/titol</expressio>
+	<expressio nr="34">//canso[@single="si" and @tp="si" and genere="Rock" and extres="Core" and (stock &lt;50 or stock &gt; 225) and artista [contains(text(),"Day")]]/titol/text()</expressio>
+>>>>>>> 01b79b440732576c233934e47a0ecf66d5af233f
 </expressions>

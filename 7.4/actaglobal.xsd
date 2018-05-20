@@ -34,7 +34,11 @@
  
 <xs:complexType name="Assistent">
   <xs:sequence>
+<<<<<<< HEAD
     <xs:element name="pis" type="Pis" minOccurs="1" maxOccurs="unbounded"/>
+=======
+    <xs:element name="pis" type="Pis" minOccurs="1" />
+>>>>>>> 01b79b440732576c233934e47a0ecf66d5af233f
     <xs:element name="vei" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
   </xs:sequence>
 </xs:complexType>
