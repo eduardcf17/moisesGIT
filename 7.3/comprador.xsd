@@ -1,13 +1,16 @@
 <?xml version="1.0"?>
 <schema xmlns="http://www.w3.org/2001/XMLSchema"
+  xmlns:p="http://agapesa.com/producte"
   xmlns:e="http://agapesa.com/empleat"
   elementFormDefault="qualified">
   <import namespace="http://agapesa.com/empleat" schemaLocation="empleat.xsd"/>
+  <import namespace="http://agapesa.com/producte" schemaLocation="producte.xsd"/>
 
-  <element name="empleats">
+  <element name="comprador">
     <complexType>
       <sequence>
-        <element ref="e:empleat" maxOccurs="unbounded" />
+        <element ref="e:empleat" />
+        <element ref="p:producte" maxOccurs="unbounded" />
       </sequence>
     </complexType>
   </element>

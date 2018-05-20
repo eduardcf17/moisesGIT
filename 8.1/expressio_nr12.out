@@ -1,0 +1,1839 @@
+<canso any="1984" tp="no">
+    <titol>Ride the Lightning</titol>
+    <artista>Metallica</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Nov</mes>
+      <any>2007</any>
+    </data>
+    <stock>87</stock>
+  </canso><canso any="1988" tp="no"> <!-- aquesta m'agrada especialment! -->
+    <titol>Blackened</titol>
+    <artista>Metallica</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Nov</mes>
+      <any>2007</any>
+    </data>
+    <stock>273</stock>
+  </canso><canso any="1988" tp="no">
+    <titol>...And Justice for All</titol>
+    <artista>Metallica</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Nov</mes>
+      <any>2007</any>
+    </data>
+    <extres>Pro Guitar/Bass</extres>
+    <stock>248</stock>
+  </canso><canso any="1970" tp="no">
+    <titol>N.I.B.</titol>
+    <artista>Black Sabbath</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Dec</mes>
+      <any>2007</any>
+    </data>
+    <stock>260</stock>
+  </canso><canso any="1971" tp="no">
+    <titol>Sweet Leaf</titol>
+    <artista>Black Sabbath</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Dec</mes>
+      <any>2007</any>
+    </data>
+    <stock>13</stock>
+  </canso><canso any="1970" tp="no">
+    <titol>War Pigs</titol>
+    <artista>Black Sabbath</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Dec</mes>
+      <any>2007</any>
+    </data>
+    <stock>213</stock>
+  </canso><canso any="1982" tp="no" single="si">
+    <titol>The Number of the Beast</titol>
+    <artista>Iron Maiden</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>8</dia>
+      <mes>Gen</mes>
+      <any>2008</any>
+    </data>
+    <stock>157</stock>
+  </canso><canso any="2008" tp="no" single="si">
+    <titol>Shockwave</titol>
+    <artista>Black Tide</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Mar</mes>
+      <any>2008</any>
+    </data>
+    <stock>1</stock>
+  </canso><canso any="1995" tp="no">
+    <titol>Blinded by Fear</titol>
+    <artista>At the Gates</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Mar</mes>
+      <any>2008</any>
+    </data>
+    <stock>84</stock>
+  </canso><canso any="2003" tp="no">
+    <titol>D.O.A.</titol>
+    <artista>The Haunted</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Mar</mes>
+      <any>2008</any>
+    </data>
+    <stock>248</stock>
+  </canso><canso any="2007" tp="no">
+    <titol>Thrasher</titol>
+    <artista>Evile</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Mar</mes>
+      <any>2008</any>
+    </data>
+    <stock>278</stock>
+  </canso><canso any="1982" tp="no">
+    <titol>The Hellion/Electric Eye</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Abr</mes>
+      <any>2008</any>
+    </data>
+    <stock>99</stock>
+  </canso><canso any="1982" tp="no">
+    <titol>Riding on the Wind</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Abr</mes>
+      <any>2008</any>
+    </data>
+    <stock>230</stock>
+  </canso><canso any="1982" tp="si">
+    <titol>Bloodstone</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Abr</mes>
+      <any>2008</any>
+    </data>
+    <stock>173</stock>
+  </canso><canso any="1982" tp="si">
+    <titol>(Take These) Chains</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Abr</mes>
+      <any>2008</any>
+    </data>
+    <stock>146</stock>
+  </canso><canso any="1982" tp="no">
+    <titol>Pain and Pleasure</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Abr</mes>
+      <any>2008</any>
+    </data>
+    <stock>1</stock>
+  </canso><canso any="1982" tp="no">
+    <titol>Screaming for Vengeance</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Abr</mes>
+      <any>2008</any>
+    </data>
+    <stock>17</stock>
+  </canso><canso any="1982" tp="no">
+    <titol>You've Got Another Thing Comin'</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Abr</mes>
+      <any>2008</any>
+    </data>
+    <stock>229</stock>
+  </canso><canso any="1982" tp="no">
+    <titol>Fever</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Abr</mes>
+      <any>2008</any>
+    </data>
+    <stock>241</stock>
+  </canso><canso any="1982" tp="no">
+    <titol>Devil's Child</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Abr</mes>
+      <any>2008</any>
+    </data>
+    <stock>69</stock>
+  </canso><canso any="2002" tp="no" single="si">
+    <titol>New Wave</titol>
+    <artista>Pleymo</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Mai</mes>
+      <any>2008</any>
+    </data>
+    <stock>289</stock>
+  </canso><canso any="2007" tp="no" single="si">
+    <titol>Critical Acclaim</titol>
+    <artista>Avenged Sevenfold</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>17</dia>
+      <mes>Jun</mes>
+      <any>2008</any>
+    </data>
+    <stock>136</stock>
+  </canso><canso any="2007" tp="no" single="si">
+    <titol>Afterlife</titol>
+    <artista>Avenged Sevenfold</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>17</dia>
+      <mes>Jun</mes>
+      <any>2008</any>
+    </data>
+    <stock>267</stock>
+  </canso><canso any="2008" tp="no">
+    <titol>Down at the Whisky</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>1</dia>
+      <mes>Jul</mes>
+      <any>2008</any>
+    </data>
+    <stock>14</stock>
+  </canso><canso any="1992" tp="si" single="si">
+    <titol>Electric Crown</titol>
+    <artista>Testament</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>29</dia>
+      <mes>Jul</mes>
+      <any>2008</any>
+    </data>
+    <stock>64</stock>
+  </canso><canso any="2002" tp="si" single="si">
+    <titol>Toxicity</titol>
+    <artista>System of a Down</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>5</dia>
+      <mes>Ago</mes>
+      <any>2008</any>
+    </data>
+    <stock>140</stock>
+  </canso><canso any="2007" tp="no">
+    <titol>Aesthetics of Hate</titol>
+    <artista>Machine Head</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>12</dia>
+      <mes>Ago</mes>
+      <any>2008</any>
+    </data>
+    <stock>247</stock>
+  </canso><canso any="2007" tp="si">
+    <titol>Clouds Over California</titol>
+    <artista>DevilDriver</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>12</dia>
+      <mes>Ago</mes>
+      <any>2008</any>
+    </data>
+    <stock>30</stock>
+  </canso><canso any="2007" tp="si">
+    <titol>Constant Motion</titol>
+    <artista>Dream Theater</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>12</dia>
+      <mes>Ago</mes>
+      <any>2008</any>
+    </data>
+    <stock>26</stock>
+  </canso><canso any="2006" tp="si">
+    <titol>My Curse</titol>
+    <artista>Killswitch Engage</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>12</dia>
+      <mes>Ago</mes>
+      <any>2008</any>
+    </data>
+    <stock>210</stock>
+  </canso><canso any="2007" tp="no">
+    <titol>Sleepwalker</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>12</dia>
+      <mes>Ago</mes>
+      <any>2008</any>
+    </data>
+    <stock>7</stock>
+  </canso><canso any="2006" tp="si">
+    <titol>This Calling</titol>
+    <artista>All That Remains</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>151</stock>
+  </canso><canso any="2008" tp="si">
+    <titol>Chiron</titol>
+    <artista>All That Remains</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>288</stock>
+  </canso><canso any="2008" tp="si">
+    <titol>Two Weeks</titol>
+    <artista>All That Remains</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>286</stock>
+  </canso><canso any="1986" tp="no">
+    <titol>Wake Up Dead</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>16</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>61</stock>
+  </canso><canso any="1986" tp="no">
+    <titol>The Conjuring</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>16</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>219</stock>
+  </canso><canso any="1986" tp="no">
+    <titol>Devil's Island</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>16</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>8</stock>
+  </canso><canso any="1986" tp="no">
+    <titol>Good Mourning/Black Friday</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>16</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>278</stock>
+  </canso><canso any="1986" tp="no">
+    <titol>Bad Omen</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>16</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>175</stock>
+  </canso><canso any="1986" tp="no">
+    <titol>I Ain't Superstitious</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>16</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>258</stock>
+  </canso><canso any="1986" tp="no">
+    <titol>My Last Words</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>16</dia>
+      <mes>Set</mes>
+      <any>2008</any>
+    </data>
+    <stock>72</stock>
+  </canso><canso any="1999" tp="no" single="si">
+    <titol>Push It</titol>
+    <artista>Static-X</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>7</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>293</stock>
+  </canso><canso any="1989" tp="no">
+    <titol>Dr. Feelgood</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>205</stock>
+  </canso><canso any="1989" tp="no">
+    <titol>Slice of Your Pie</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>194</stock>
+  </canso><canso any="1989" tp="no">
+    <titol>Rattlesnake Shake</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>33</stock>
+  </canso><canso any="1989" tp="no">
+    <titol>Kickstart My Heart</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <extres>Pro Guitar/Bass</extres>
+    <stock>167</stock>
+  </canso><canso any="1989" tp="si">
+    <titol>Without You</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>96</stock>
+  </canso><canso any="1989" tp="no">
+    <titol>Same Ol' Situation (S.O.S.)</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>253</stock>
+  </canso><canso any="1989" tp="no">
+    <titol>Sticky Sweet</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>128</stock>
+  </canso><canso any="1989" tp="no">
+    <titol>She Goes Down</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>210</stock>
+  </canso><canso any="1989" tp="si">
+    <titol>Don't Go Away Mad (Just Go Away)</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>79</stock>
+  </canso><canso any="1989" tp="si">
+    <titol>Time for Change</titol>
+    <artista>M&#xC3;&#xB6;tley Cr&#xC3;&#xBC;e</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Oct</mes>
+      <any>2008</any>
+    </data>
+    <stock>270</stock>
+  </canso><canso any="2008" tp="no">
+    <titol>Desperate Times , Desperate Measures</titol>
+    <artista>Underoath</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>6</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>258</stock>
+  </canso><canso any="2008" tp="no">
+    <titol>I.V.</titol>
+    <artista>X Japan</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>6</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>182</stock>
+  </canso><canso any="2008" tp="si">
+    <titol>Forever</titol>
+    <artista>In This Moment</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>278</stock>
+  </canso><canso any="2006" tp="no">
+    <titol>Closer</titol>
+    <artista>Lacuna Coil</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>106</stock>
+  </canso><canso any="2002" tp="si">
+    <titol>Swamped</titol>
+    <artista>Lacuna Coil</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>265</stock>
+  </canso><canso any="2008" tp="si" single="si">
+    <titol>Gone</titol>
+    <artista>Crooked X</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>147</stock>
+  </canso><canso any="2008" tp="no">
+    <titol>Caprici Di Diablo</titol>
+    <artista>Yngwie Malmsteen's Rising Force</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>214</stock>
+  </canso><canso any="2008" tp="no">
+    <titol>Damnation Game</titol>
+    <artista>Yngwie Malmsteen's Rising Force</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>278</stock>
+  </canso><canso any="2008" tp="no">
+    <titol>Red Devil</titol>
+    <artista>Yngwie Malmsteen's Rising Force</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>154</stock>
+  </canso><canso any="2004" tp="no" single="si">
+    <titol>Laid to Rest</titol>
+    <artista>Lamb of God</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Nov</mes>
+      <any>2008</any>
+    </data>
+    <stock>217</stock>
+  </canso><canso any="2005" tp="no" single="si">
+    <titol>Are You Dead Yet?</titol>
+    <artista>Children of Bodom</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>2</dia>
+      <mes>Dec</mes>
+      <any>2008</any>
+    </data>
+    <stock>51</stock>
+  </canso><canso any="2008" tp="no" single="si">
+    <titol>Killed by Death '08</titol>
+    <artista>Mot&#xC3;&#xB6;rhead</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>26</dia>
+      <mes>Gen</mes>
+      <any>2010</any>
+    </data>
+    <stock>93</stock>
+  </canso><canso any="1990" tp="no">
+    <titol>Holy Wars... The Punishment Due</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Feb</mes>
+      <any>2010</any>
+    </data>
+    <stock>295</stock>
+  </canso><canso any="1990" tp="si">
+    <titol>Hangar 18</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Feb</mes>
+      <any>2010</any>
+    </data>
+    <stock>40</stock>
+  </canso><canso any="1990" tp="no">
+    <titol>Take No Prisoners</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Feb</mes>
+      <any>2010</any>
+    </data>
+    <stock>82</stock>
+  </canso><canso any="1990" tp="no">
+    <titol>Five Magics</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Feb</mes>
+      <any>2010</any>
+    </data>
+    <stock>297</stock>
+  </canso><canso any="1990" tp="no">
+    <titol>Poison Was the Cure</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Feb</mes>
+      <any>2010</any>
+    </data>
+    <stock>16</stock>
+  </canso><canso any="1990" tp="no">
+    <titol>Lucretia</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Feb</mes>
+      <any>2010</any>
+    </data>
+    <stock>295</stock>
+  </canso><canso any="1990" tp="no">
+    <titol>Tornado of Souls</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Feb</mes>
+      <any>2010</any>
+    </data>
+    <stock>33</stock>
+  </canso><canso any="1990" tp="si">
+    <titol>Dawn Patrol</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Feb</mes>
+      <any>2010</any>
+    </data>
+    <stock>14</stock>
+  </canso><canso any="1990" tp="no">
+    <titol>Rust In Peace... Polaris</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Feb</mes>
+      <any>2010</any>
+    </data>
+    <stock>48</stock>
+  </canso><canso any="2009" tp="no" single="si">
+    <titol>Outer Space</titol>
+    <artista>Ace Frehley</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>23</dia>
+      <mes>Mar</mes>
+      <any>2010</any>
+    </data>
+    <stock>42</stock>
+  </canso><canso any="2010" tp="no" single="si">
+    <titol>Dearest (I'm So Sorry)</titol>
+    <artista>Picture Me Broken</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>132</stock>
+  </canso><canso any="2010" tp="si">
+    <titol>Breaking the Law (Live)</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>19</stock>
+  </canso><canso any="2010" tp="si">
+    <titol>Rapid Fire (Live)</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>265</stock>
+  </canso><canso any="2010" tp="no">
+    <titol>Metal Gods (Live)</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>30</stock>
+  </canso><canso any="2010" tp="si">
+    <titol>Grinder (Live)</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>102</stock>
+  </canso><canso any="2010" tp="si">
+    <titol>United (Live)</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>11</stock>
+  </canso><canso any="2010" tp="no">
+    <titol>Living After Midnight (Live)</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>135</stock>
+  </canso><canso any="2010" tp="no">
+    <titol>You Don't Have to Be Old to Be Wise (Live)</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>300</stock>
+  </canso><canso any="2010" tp="si">
+    <titol>The Rage (Live)</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>263</stock>
+  </canso><canso any="2010" tp="si">
+    <titol>Steeler (Live)</titol>
+    <artista>Judas Priest</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>11</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>125</stock>
+  </canso><canso any="1996" tp="no">
+    <titol>The Great Southern Trendkill</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>201</stock>
+  </canso><canso any="1996" tp="no">
+    <titol>War Nerve</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>50</stock>
+  </canso><canso any="1996" tp="no">
+    <titol>Drag the Waters</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>89</stock>
+  </canso><canso any="1996" tp="no">
+    <titol>10s</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>76</stock>
+  </canso><canso any="1996" tp="no">
+    <titol>13 Steps to Nowhere</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>52</stock>
+  </canso><canso any="1996" tp="no">
+    <titol>Suicide Note Pt. II</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>189</stock>
+  </canso><canso any="1996" tp="no">
+    <titol>Living Through Me (Hell's Wrath)</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>127</stock>
+  </canso><canso any="1996" tp="no">
+    <titol>Floods</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>3</stock>
+  </canso><canso any="1996" tp="no">
+    <titol>The Underground in America</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>20</stock>
+  </canso><canso any="1996" tp="no">
+    <titol>(Reprise) Sandblasted Skin</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Mai</mes>
+      <any>2010</any>
+    </data>
+    <stock>265</stock>
+  </canso><canso any="1988" tp="si">
+    <titol>Crazy Babies</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>15</dia>
+      <mes>Jun</mes>
+      <any>2010</any>
+    </data>
+    <stock>74</stock>
+  </canso><canso any="2010" tp="no">
+    <titol>Diggin' Me Down</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>15</dia>
+      <mes>Jun</mes>
+      <any>2010</any>
+    </data>
+    <stock>284</stock>
+  </canso><canso any="2007" tp="si">
+    <titol>I Don't Wanna Stop</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>15</dia>
+      <mes>Jun</mes>
+      <any>2010</any>
+    </data>
+    <stock>235</stock>
+  </canso><canso any="2010" tp="no">
+    <titol>Let Me Hear You Scream</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>15</dia>
+      <mes>Jun</mes>
+      <any>2010</any>
+    </data>
+    <stock>33</stock>
+  </canso><canso any="1991" tp="si">
+    <titol>No More Tears</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>15</dia>
+      <mes>Jun</mes>
+      <any>2010</any>
+    </data>
+    <stock>174</stock>
+  </canso><canso any="2010" tp="si">
+    <titol>Soul Sucker</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>15</dia>
+      <mes>Jun</mes>
+      <any>2010</any>
+    </data>
+    <stock>61</stock>
+  </canso><canso any="2010" tp="no">
+    <titol>Nightmare</titol>
+    <artista>Avenged Sevenfold</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>27</dia>
+      <mes>Jul</mes>
+      <any>2010</any>
+    </data>
+    <stock>182</stock>
+  </canso><canso any="2005" tp="no">
+    <titol>Seize the Day</titol>
+    <artista>Avenged Sevenfold</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>27</dia>
+      <mes>Jul</mes>
+      <any>2010</any>
+    </data>
+    <stock>145</stock>
+  </canso><canso any="2007" tp="no">
+    <titol>Scream</titol>
+    <artista>Avenged Sevenfold</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>27</dia>
+      <mes>Jul</mes>
+      <any>2010</any>
+    </data>
+    <stock>151</stock>
+  </canso><canso any="2002" tp="no" single="si">
+    <titol>Sturm and Drang</titol>
+    <artista>KMFDM</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>3</dia>
+      <mes>Ago</mes>
+      <any>2010</any>
+    </data>
+    <stock>214</stock>
+  </canso><canso any="1992" tp="no">
+    <titol>Jesus Built My Hotrod</titol>
+    <artista>Ministry</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>10</dia>
+      <mes>Ago</mes>
+      <any>2010</any>
+    </data>
+    <stock>82</stock>
+  </canso><canso any="1988" tp="no">
+    <titol>Stigmata</titol>
+    <artista>Ministry</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>10</dia>
+      <mes>Ago</mes>
+      <any>2010</any>
+    </data>
+    <stock>129</stock>
+  </canso><canso any="1989" tp="no">
+    <titol>Thieves</titol>
+    <artista>Ministry</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>10</dia>
+      <mes>Ago</mes>
+      <any>2010</any>
+    </data>
+    <stock>236</stock>
+  </canso><canso any="2010" tp="no">
+    <titol>Asylum</titol>
+    <artista>Disturbed</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>24</dia>
+      <mes>Ago</mes>
+      <any>2010</any>
+    </data>
+    <stock>169</stock>
+  </canso><canso any="2010" tp="no">
+    <titol>The Animal</titol>
+    <artista>Disturbed</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>24</dia>
+      <mes>Ago</mes>
+      <any>2010</any>
+    </data>
+    <stock>18</stock>
+  </canso><canso any="2010" tp="no">
+    <titol>Another Way to Die</titol>
+    <artista>Disturbed</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>24</dia>
+      <mes>Ago</mes>
+      <any>2010</any>
+    </data>
+    <stock>100</stock>
+  </canso><canso any="2010" tp="no">
+    <titol>Bury Me Alive</titol>
+    <artista>We Are The Fallen</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>24</dia>
+      <mes>Ago</mes>
+      <any>2010</any>
+    </data>
+    <stock>64</stock>
+  </canso><canso any="1983" tp="si" single="si">
+    <titol>Holy Diver</titol>
+    <artista>Dio</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Set</mes>
+      <any>2010</any>
+    </data>
+    <stock>236</stock>
+  </canso><canso any="1983" tp="si" single="si">
+    <titol>Stand Up and Shout</titol>
+    <artista>Dio</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Set</mes>
+      <any>2010</any>
+    </data>
+    <stock>142</stock>
+  </canso><canso any="1987" tp="no">
+    <titol>Among The Living</titol>
+    <artista>Anthrax</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>28</dia>
+      <mes>Set</mes>
+      <any>2010</any>
+    </data>
+    <stock>23</stock>
+  </canso><canso any="1987" tp="no">
+    <titol>I'm the Man</titol>
+    <artista>Anthrax</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>28</dia>
+      <mes>Set</mes>
+      <any>2010</any>
+    </data>
+    <stock>63</stock>
+  </canso><canso any="1987" tp="si">
+    <titol>Indians</titol>
+    <artista>Anthrax</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>28</dia>
+      <mes>Set</mes>
+      <any>2010</any>
+    </data>
+    <stock>119</stock>
+  </canso><canso any="1987" tp="si">
+    <titol>Madhouse (Live)</titol>
+    <artista>Anthrax</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>28</dia>
+      <mes>Set</mes>
+      <any>2010</any>
+    </data>
+    <stock>170</stock>
+  </canso><canso any="1987" tp="si">
+    <titol>Metal Thrashing Mad (Live)</titol>
+    <artista>Anthrax</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>28</dia>
+      <mes>Set</mes>
+      <any>2010</any>
+    </data>
+    <stock>209</stock>
+  </canso><canso any="2009" tp="no" single="si">
+    <titol>Coffin Nails</titol>
+    <artista>Atreyu</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>28</dia>
+      <mes>Set</mes>
+      <any>2010</any>
+    </data>
+    <stock>201</stock>
+  </canso><canso any="1997" tp="no" single="si">
+    <titol>My Own Summer (Shove It)</titol>
+    <artista>Deftones</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>9</dia>
+      <mes>Nov</mes>
+      <any>2010</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>12</stock>
+  </canso><canso any="2007" tp="no" single="si">
+    <titol>Dame Aire</titol>
+    <artista>Skizoo</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>21</dia>
+      <mes>Dec</mes>
+      <any>2010</any>
+    </data>
+    <extres>Core</extres>
+    <stock>153</stock>
+  </canso><canso any="2007" tp="no">
+    <titol>Visions</titol>
+    <artista>Abnormality</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Gen</mes>
+      <any>2011</any>
+    </data>
+    <stock>272</stock>
+  </canso><canso any="2009" tp="no">
+    <titol>Get Clean</titol>
+    <artista>Anarchy Club</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Gen</mes>
+      <any>2011</any>
+    </data>
+    <stock>14</stock>
+  </canso><canso any="2008" tp="no">
+    <titol>Shoulder to the Plow</titol>
+    <artista>Breaking Wheel</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>4</dia>
+      <mes>Gen</mes>
+      <any>2011</any>
+    </data>
+    <stock>187</stock>
+  </canso><canso any="2006" tp="si">
+    <titol>Made of Scars</titol>
+    <artista>Stone Sour</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Gen</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>8</stock>
+  </canso><canso any="2010" tp="si">
+    <titol>Say You'll Haunt Me</titol>
+    <artista>Stone Sour</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Gen</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>185</stock>
+  </canso><canso any="2006" tp="si">
+    <titol>Through Glass</titol>
+    <artista>Stone Sour</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>18</dia>
+      <mes>Gen</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>253</stock>
+  </canso><canso any="2006" tp="no" single="si">
+    <titol>Through the Fire and Flames</titol>
+    <artista>DragonForce</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>29</dia>
+      <mes>Mar</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>144</stock>
+  </canso><canso any="2006" tp="no" single="si">
+    <titol>Operation Ground and Pound</titol>
+    <artista>DragonForce</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>29</dia>
+      <mes>Mar</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>118</stock>
+  </canso><canso any="2004" tp="no" single="si">
+    <titol>Blood and Thunder</titol>
+    <artista>Mastodon</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>19</dia>
+      <mes>Abr</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>295</stock>
+  </canso><canso any="2006" tp="no" single="si">
+    <titol>Hard Rock Hallelujah</titol>
+    <artista>Lordi</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>10</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>230</stock>
+  </canso><canso any="1994" tp="no">
+    <titol>5 Minutes Alone</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>19</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>161</stock>
+  </canso><canso any="1992" tp="no">
+    <titol>Walk</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>19</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>156</stock>
+  </canso><canso any="1992" tp="no">
+    <titol>Mouth for War</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>19</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>243</stock>
+  </canso><canso any="1994" tp="no">
+    <titol>I'm Broken</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>19</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>260</stock>
+  </canso><canso any="1980" tp="no">
+    <titol>Mr. Crowley</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>31</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>216</stock>
+  </canso><canso any="1981" tp="si">
+    <titol>Over the Mountain</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>31</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>34</stock>
+  </canso><canso any="1983" tp="no">
+    <titol>Bark at the Moon</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>31</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>33</stock>
+  </canso><canso any="1991" tp="si">
+    <titol>Mama , I'm Coming Home</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>31</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>112</stock>
+  </canso><canso any="1980" tp="no">
+    <titol>Steal Away (The Night)</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>31</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>135</stock>
+  </canso><canso any="1981" tp="si">
+    <titol>Flying High Again</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>31</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>8</stock>
+  </canso><canso any="1981" tp="no">
+    <titol>Diary of a Madman</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>31</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>43</stock>
+  </canso><canso any="1980" tp="si">
+    <titol>I Don't Know</titol>
+    <artista>Ozzy Osbourne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>31</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>278</stock>
+  </canso><canso any="2003" tp="no" single="si">
+    <titol>Unholy Confessions</titol>
+    <artista>Avenged Sevenfold</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Jun</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>213</stock>
+  </canso><canso any="2010" tp="no" single="si">
+    <titol>Welcome to the Family</titol>
+    <artista>Avenged Sevenfold</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Jun</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>223</stock>
+  </canso><canso any="1999" tp="no">
+    <titol>Wait and Bleed</titol>
+    <artista>Slipknot</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>27</dia>
+      <mes>Set</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>171</stock>
+  </canso><canso any="2001" tp="no">
+    <titol>Left Behind</titol>
+    <artista>Slipknot</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>27</dia>
+      <mes>Set</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>281</stock>
+  </canso><canso any="2004" tp="no">
+    <titol>Pulse of the Maggots</titol>
+    <artista>Slipknot</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>27</dia>
+      <mes>Set</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>194</stock>
+  </canso><canso any="1992" tp="no" single="si">
+    <titol>Thunder Kiss '65</titol>
+    <artista>White Zombie</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Oct</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>77</stock>
+  </canso><canso any="1995" tp="no" single="si">
+    <titol>Super-Charger Heaven</titol>
+    <artista>White Zombie</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Oct</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core and Pro Guitar/Bass</extres>
+    <stock>226</stock>
+  </canso><canso any="2011" tp="si">
+    <titol>In Waves</titol>
+    <artista>Trivium</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>29</dia>
+      <mes>Nov</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>237</stock>
+  </canso><canso any="2010" tp="no" single="si">
+    <titol>A Warrior's Call</titol>
+    <artista>Volbeat</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>13</dia>
+      <mes>Dec</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>83</stock>
+  </canso><canso any="1992" tp="no">
+    <titol>Symphony of Destruction</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>21</dia>
+      <mes>Feb</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core and Pro-Guitar/Bass</extres>
+    <stock>136</stock>
+  </canso><canso any="1994" tp="no">
+    <titol>&#xC3;&#x20AC; Tout le Monde</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>21</dia>
+      <mes>Feb</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>65</stock>
+  </canso><canso any="2011" tp="no">
+    <titol>Public Enemy No. 1</titol>
+    <artista>Megadeth</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>21</dia>
+      <mes>Feb</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>279</stock>
+  </canso><canso any="2011" tp="no" single="si">
+    <titol>Curl of the Burl</titol>
+    <artista>Mastodon</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>6</dia>
+      <mes>Mar</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>70</stock>
+  </canso><canso any="1986" tp="no">
+    <titol>Raining Blood</titol>
+    <artista>Slayer</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>10</dia>
+      <mes>Abr</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core and Pro-Guitar/Bass</extres>
+    <stock>129</stock>
+  </canso><canso any="1988" tp="no">
+    <titol>South of Heaven</titol>
+    <artista>Slayer</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>10</dia>
+      <mes>Abr</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>104</stock>
+  </canso><canso any="1990" tp="no">
+    <titol>Seasons in the Abyss</titol>
+    <artista>Slayer</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>10</dia>
+      <mes>Abr</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>151</stock>
+  </canso><canso any="1980" tp="si">
+    <titol>Phantom of the Opera</titol>
+    <artista>Iron Maiden</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Mai</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>34</stock>
+  </canso><canso any="1982" tp="no">
+    <titol>The Prisoner</titol>
+    <artista>Iron Maiden</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Mai</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>80</stock>
+  </canso><canso any="1983" tp="si">
+    <titol>Flight of Icarus</titol>
+    <artista>Iron Maiden</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Mai</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core and Pro-Guitar/Bass</extres>
+    <stock>201</stock>
+  </canso><canso any="1984" tp="si">
+    <titol>Rime of the Ancient Mariner</titol>
+    <artista>Iron Maiden</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Mai</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core and Pro-Guitar/Bass</extres>
+    <stock>40</stock>
+  </canso><canso any="1988" tp="si">
+    <titol>Infinite Dreams</titol>
+    <artista>Iron Maiden</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Mai</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>296</stock>
+  </canso><canso any="1988" tp="si">
+    <titol>Seventh Son of a Seventh Son</titol>
+    <artista>Iron Maiden</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>22</dia>
+      <mes>Mai</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>66</stock>
+  </canso><canso any="2006" tp="no">
+    <titol>Tears Don't Fall</titol>
+    <artista>Bullet for My Valentine</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>29</dia>
+      <mes>Mai</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>88</stock>
+  </canso><canso any="2008" tp="no">
+    <titol>Scream Aim Fire</titol>
+    <artista>Bullet for My Valentine</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>29</dia>
+      <mes>Mai</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>172</stock>
+  </canso><canso any="2010" tp="no">
+    <titol>Your Betrayal</titol>
+    <artista>Bullet for My Valentine</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>29</dia>
+      <mes>Mai</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core and Pro-Guitar/Bass</extres>
+    <stock>166</stock>
+  </canso><canso any="2005" tp="no" single="si">
+    <titol>Happy?</titol>
+    <artista>Mudvayne</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>3</dia>
+      <mes>Jul</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core and Pro-Guitar/Bass</extres>
+    <stock>270</stock>
+  </canso><canso any="2004" tp="si">
+    <titol>The End of Heartache</titol>
+    <artista>Killswitch Engage</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>31</dia>
+      <mes>Jul</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core and Pro-Guitar/Bass</extres>
+    <stock>82</stock>
+  </canso><canso any="2006" tp="si">
+    <titol>The Arms of Sorrow</titol>
+    <artista>Killswitch Engage</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>31</dia>
+      <mes>Jul</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>263</stock>
+  </canso><canso any="2009" tp="si">
+    <titol>Starting Over</titol>
+    <artista>Killswitch Engage</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>31</dia>
+      <mes>Jul</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>210</stock>
+  </canso><canso any="1987" tp="no" single="si">
+    <titol>Still of the Night</titol>
+    <artista>Whitesnake</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>7</dia>
+      <mes>Ago</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>136</stock>
+  </canso><canso any="2007" tp="si" single="si">
+    <titol>Amaranth</titol>
+    <artista>Nightwish</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>14</dia>
+      <mes>Ago</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core and Pro-Guitar/Bass</extres>
+    <stock>98</stock>
+  </canso><canso any="2012" tp="si" single="si">
+    <titol>Cry Thunder</titol>
+    <artista>Dragonforce</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Nov</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>11</stock>
+  </canso><canso any="2013" tp="si" single="si">
+    <titol>Shepherd of Fire</titol>
+    <artista>Avenged Sevenfold</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>13</dia>
+      <mes>Gen</mes>
+      <any>2017</any>
+    </data>
+    <extres>Core</extres>
+    <stock>139</stock>
+  </canso><canso any="2014" tp="si" single="si">
+    <titol>Divide</titol>
+    <artista>All That Remains</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>6</dia>
+      <mes>Oct</mes>
+      <any>2017</any>
+    </data>
+    <extres>Harmonies</extres>
+    <stock>108</stock>
+  </canso><canso any="1991" tp="no" single="si">
+    <titol>Cowboys from Hell (Live from Monsters in Moscow Festival)</titol>
+    <artista>Pantera</artista>
+    <genere>Metal</genere>
+    <data>
+      <dia>6</dia>
+      <mes>Oct</mes>
+      <any>2017</any>
+    </data>
+    <extres>No</extres>
+    <stock>8</stock>
+  </canso>

@@ -1,0 +1,99 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="acta" type="Acta"/>
+
+  <xs:complexType name="Acta">
+    <xs:sequence>
+      <xs:element name="assistents" type="xs:Assistents"/>
+      <xs:element name="noassistents" type="xs:Noassistents"/>
+      <xs:element name="ordredeldia" type="xs:Ordredeldia"/>
+      <xs:element name="desenvolupament" type="xs:Desenvolupament"/>
+      <xs:element name="acords" type="Acords" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="temespendents" type="Temespendents" minOccurs="0">
+    </xs:sequence>
+    <attribute name="sessio" type="integer" use="required"/>
+    <attribute name="comunitat" type="string" use="required"/>
+    <attribute name="data" type="date" use="required" />
+    <attribute name="inici" type="time" use="required" />
+    <attribute name="acabament" type="time" use="required"/>
+    <attribute name="lloc" type="string" use="required"/>
+    <attribute name="president" type="string" use="required"/>
+    <attribute name="vicepresident" type="string" use="required"/>
+    <attribute name="tipus" type="string" use="optional" />
+    <attribute name="administrador" type="string" use="required"/>
+  </xs:complexType>
+</xs:element>
+
+
+
+
+  <xs:complexType name="Assistents">
+    <sxs:equence>
+      <xs:element name="assistent" type="xs:Assistent">
+    </xs:sequence>
+  </xs:complexType>
+
+<xs:complexType name="Assistent">
+  <xs:sequence>
+    <xs:element name="pis" type="xs:Pis" minOccurs="1" maxOccurs="unbounded">
+    <element name="vei" type="string" minOccurs="1" maxOccurs="unbounded"/>
+  </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="Pis">
+  <xs:attribute name="planta" type="integer" use="required" />
+  <xs:attribute name="porta" type="integer" use="required" />
+</xs:complexType>
+
+
+<xs:complexType name="Noassistents">
+  <sequence>
+    <xs:element name="pis" type="xs:Pis">
+  </sequence>
+</xs:complexType>
+
+<xs:complexType name="ordredeldia" type="xs:Ordredeldia">
+<xs:sequence>
+  <xs:element name="punt" type="xs:Punt"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="punt" type="xs:Punt">
+  <xs:equence>
+    <xs:element name="paragraf" type="xs:string" />
+  </xs:sequence>
+  <xs:attribute name="nr" type="xs:integer" use="required"/>
+</xs:complexType>
+
+<xs:element name="entrada" type="xs:Entrada" minOccurs="1" maxOccurs="unbounded">
+  <xs:sequence>
+    <xs:element name="paragraf" type="xs:string" />
+  </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="acords" type="Acords">
+<xs:sequence>
+  <xs:element name="entrada" type="xs:Entrada" minOccurs="1" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="temespendents" type="Temespendents">
+<xs:sequence>
+  <xs:element name="entrada" type="Entrada"/>
+</xs:sequence>
+</xs:complexType>
+
+
+  <xs:complexType name="Entrades">
+    <xs:sequence>
+      <xs:element name="entrada" type="Entrada" minOccurs="0" maxOccurs="unbounded" />
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="Entrada">
+    <xs:sequence>
+      <xs:element name="paragraf" type="xs:string" maxOccurs="unbounded" />
+    </xs:sequence>
+  </xs:complexType>
+
+</xs:schema>

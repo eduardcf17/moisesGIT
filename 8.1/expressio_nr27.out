@@ -1,0 +1,76 @@
+<canso any="2009" tp="si">
+    <titol>Sing the Changes (Live)</titol>
+    <artista>Paul McCartney</artista>
+    <genere>Rock</genere>
+    <data>
+      <dia>5</dia>
+      <mes>Gen</mes>
+      <any>2010</any>
+    </data>
+    <stock>22</stock>
+  </canso><canso any="2005" tp="no">
+    <titol>Wings of a Butterfly</titol>
+    <artista>HIM</artista>
+    <genere>Alternative</genere>
+    <data>
+      <dia>23</dia>
+      <mes>Feb</mes>
+      <any>2010</any>
+    </data>
+    <stock>87</stock>
+  </canso><canso any="1985" tp="no" single="si">
+    <titol>King of Rock</titol>
+    <artista>Run-DMC</artista>
+    <genere>Hip-Hop/Rap</genere>
+    <data>
+      <dia>10</dia>
+      <mes>Mai</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>282</stock>
+  </canso><canso any="1999" tp="no">
+    <titol>Single White Female (RB3 Version)</titol>
+    <artista>Chely Wright</artista>
+    <genere>Country</genere>
+    <data>
+      <dia>8</dia>
+      <mes>Nov</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>159</stock>
+  </canso><canso any="1963" tp="no">
+    <titol>Ring of Fire (RB3 Version)</titol>
+    <artista>Johnny Cash</artista>
+    <genere>Country</genere>
+    <data>
+      <dia>8</dia>
+      <mes>Nov</mes>
+      <any>2011</any>
+    </data>
+    <extres>Core</extres>
+    <stock>67</stock>
+  </canso><canso any="2010" tp="si">
+    <titol>Sing</titol>
+    <artista>My Chemical Romance</artista>
+    <genere>Emo</genere>
+    <data>
+      <dia>25</dia>
+      <mes>Dec</mes>
+      <any>2012</any>
+    </data>
+    <extres>Core</extres>
+    <stock>190</stock>
+  </canso><canso any="2012" tp="desconegut" single="si">
+    <titol>King for a Day (ft. Kellin Quinn)</titol>
+    <artista>Pierce the Veil</artista>
+    <genere>Emo</genere>
+    <data>
+      <dia>6</dia>
+      <mes>Oct</mes>
+      <any>2017</any>
+    </data>
+    <extres>Harmonies</extres>
+    <stock>241</stock>
+  </canso>

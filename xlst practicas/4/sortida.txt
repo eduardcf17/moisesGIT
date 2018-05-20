@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assistents>
+        <assistent>
+            <pis>1er 1ra</pis>
+            <veí>Sra. Josefa Ramos Granados</veí>
+            <veí>Sra. Jamilda Altramuz Izaguirre</veí>
+        </assistent>
+        <assistent>
+            <pis>1er 2na</pis>
+            <veí>Sr. Vicent Carallot i Gripau</veí>
+        </assistent>
+        <assistent>
+            <pis>2on 1ra</pis>
+            <veí rol="president">Sr. Lluís Benito i Sigüenza</veí>
+        </assistent>
+        <assistent>
+            <pis>2on 2na</pis>
+            <veí>Sr. Carles Valdaura Ronyós</veí>
+            <veí rol="vicepresident">Sra. Ramona González Remolona</veí>
+            <veí>Sta. Ramona Valdaura González</veí>
+        </assistent>
+        <assistent>
+            <pis>4rt 1ra</pis>
+            <veí>Sr. Lam Kam Chuen</veí>
+        </assistent>
+    </assistents>
+<noassistents>
+        <pis>3er 2na</pis>
+        <pis>3er 1ra</pis>
+        <pis>4rt 2na</pis>
+    </noassistents>

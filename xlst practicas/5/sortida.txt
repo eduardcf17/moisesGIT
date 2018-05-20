@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<participació>
+   <participant>Sra. Josefa Ramos Granados</participant>
+   <participant>Sra. Jamilda Altramuz Izaguirre</participant>
+   <participant>Sr. Vicent Carallot i Gripau</participant>
+   <participant>Sr. Lluís Benito i Sigüenza</participant>
+   <participant>Sr. Carles Valdaura Ronyós</participant>
+   <participant>Sra. Ramona González Remolona</participant>
+   <participant>Sta. Ramona Valdaura González</participant>
+   <participant>Sr. Lam Kam Chuen</participant>
+</participació>&gt;
+    

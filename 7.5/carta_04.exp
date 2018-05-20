@@ -1,0 +1,3 @@
+carta_04.xml:4: element data: Schemas validity error : Element 'data': '20 de abril del 90' is not a valid value of the atomic type 'xs:date'.
+carta_04.xml:6: element salutacio: Schemas validity error : Element 'salutacio': This element is not expected. Expected is ( paragraf ).
+carta_04.xml fails to validate

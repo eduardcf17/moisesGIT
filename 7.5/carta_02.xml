@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Carta amb molts paràgrafs -->
+<carta>
+    <data>1990-04-20</data>
+    <salutacio>Hola chata, ¿cómo estás?</salutacio>
+    <paragraf>
+        ¿Te sorprende que te escriba?
+        Tanto tiempo es normal.
+        Pues es que estaba aquí solo,
+        me había puesto a recordar,
+        me entró la melancolía
+        y te tenía que hablar.
+    </paragraf>
+    <paragraf>
+        ¿Recuerdas aquella noche en la cabaña del Turmo,
+        las risas que nos hacíamos antes todos juntos?
+        Hoy no queda casi nadie de los de antes,
+        y los que hay
+        han cambiado, han cambiado, sí.
+    </paragraf>
+    <paragraf>
+        Pero bueno, ¿tú qué tal? Di.
+        Lo mismo hasta tienes crios.
+        ¿Qué tal te va con el tío ese?
+        Espero sea divertido.
+        Yo, la verdad, como siempre,
+        sigo currando en lo mismo.
+        La música no me cansa,
+        pero me encuentro vacío. 
+    </paragraf>
+    <paragraf>
+        ¿Recuerdas aquella noche en la cabaña del Turmo,
+        las risas que nos hacíamos antes todos juntos?
+        Hoy no queda casi nadie de los de antes,
+        y los que hay
+        han cambiado, han cambiado, sí.
+    </paragraf>
+    <paragraf>
+        Bueno, pues ya me despido,
+        si te mola me contestas.
+        Espero que mis palabras
+        desordenen tu conciencia.
+        Pues nada, chica, lo dicho,
+        hasta pronto si nos vemos.
+    </paragraf>
+    <comiat>Yo sigo con mis canciones y tú sigues con tus sueños.</comiat>
+</carta>

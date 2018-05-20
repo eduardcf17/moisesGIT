@@ -1,0 +1,20 @@
+<expressions alumne="cf17eduard.corral@iesjoandaustria.org">
+	<expressio nr="1">/</expressio>
+	<expressio nr="2">// comment()</expressio>
+	<expressio nr="3">cansons/canso</expressio>
+	<expressio nr="4">//canso[1]</expressio>
+	<expressio nr="5">//canso[2] </expressio>
+	<expressio nr="6">//canso[last()] </expressio>
+	<expressio nr="7">//canso[last()-1] </expressio>
+	<expressio nr="8">//canso[position()&lt;5]</expressio>
+	<expressio nr="9">//canso[position()&gt;last()-5]</expressio>
+	<expressio nr="10">count(/cansons/canso)</expressio>
+	<expressio nr="11">//canso[@single="si"]</expressio>
+	<expressio nr="12">//canso[genere="Metal"]</expressio>
+	<expressio nr="13">//canso[@single="si"][@tp="si"]</expressio>
+	<expressio nr="14">//canso[@single!="si"]</expressio>
+
+
+
+
+</expressions>

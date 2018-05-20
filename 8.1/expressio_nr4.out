@@ -1,0 +1,11 @@
+<canso any="1969" tp="si" single="si">
+    <titol>Fortunate Son</titol>
+    <artista>Creedence Clearwater Revival</artista>
+    <genere>Southern Rock</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Nov</mes>
+      <any>2007</any>
+    </data>
+    <stock>137</stock>
+  </canso>

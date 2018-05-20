@@ -1,0 +1,42 @@
+<canso any="1969" tp="si" single="si">
+    <titol>Fortunate Son</titol>
+    <artista>Creedence Clearwater Revival</artista>
+    <genere>Southern Rock</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Nov</mes>
+      <any>2007</any>
+    </data>
+    <stock>137</stock>
+  </canso><canso any="1981" tp="si" single="si">
+    <titol>Juke Box Hero</titol>
+    <artista>Foreigner</artista>
+    <genere>Classic Rock</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Nov</mes>
+      <any>2007</any>
+    </data>
+    <stock>242</stock>
+  </canso><canso any="1971" tp="no" single="si">
+    <titol>Bang a Gong</titol>
+    <artista>T. Rex</artista>
+    <genere>Glam</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Nov</mes>
+      <any>2007</any>
+    </data>
+    <stock>102</stock>
+  </canso><canso any="1979" tp="no" single="si">
+    <titol>My Sharona</titol>
+    <artista>The Knack</artista>
+    <genere>Pop-Rock</genere>
+    <data>
+      <dia>20</dia>
+      <mes>Nov</mes>
+      <any>2007</any>
+    </data>
+    <extres>Pro Guitar/Bass</extres>
+    <stock>138</stock>
+  </canso>

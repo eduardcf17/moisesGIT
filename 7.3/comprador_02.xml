@@ -1,0 +1,43 @@
+<comprador
+  xmlns:p="http://agapesa.com/producte"
+  xmlns:e="http://agapesa.com/empleat" >
+  <e:empleat>
+   <e:denominacio>
+      <e:titol>Sra</e:titol>
+      <e:nom>Gracita</e:nom>
+      <e:cognoms>Suárez Cifuentes</e:cognoms>
+    </e:denominacio>
+    <e:nif>175A</e:nif>
+    <e:carrec>comprar</e:carrec>
+    <e:antiguitat>1995</e:antiguitat>
+  </e:empleat>
+  <p:producte>
+    <p:denominacio>boli</p:denominacio>
+    <p:ref>2356</p:ref>
+    <p:marca>vic</p:marca>
+    <p:ean>692</p:ean>
+    <p:preu>7.05</p:preu>
+  </p:producte>
+  <p:producte>
+    <p:denominacio>goma</p:denominacio>
+    <p:ref>8954852</p:ref>
+    <p:marca>mattel</p:marca>
+    <p:ean>12345678432</p:ean>
+    <p:preu>2.95</p:preu>
+  </p:producte>
+  <p:producte>
+    <p:denominacio>algo</p:denominacio>
+    <p:ref>456789928377382</p:ref>
+    <p:marca>algo</p:marca>
+    <p:ean>845454512</p:ean>
+    <p:preu>100.99</p:preu>
+  </p:producte>
+</comprador>
+
+
+
+
+
+
+
+
