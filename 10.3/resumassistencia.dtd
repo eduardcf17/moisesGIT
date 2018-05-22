@@ -1,0 +1,6 @@
+<!ELEMENT resum-acta (comunitat, noassistents, assistents)>
+<!ELEMENT assistents (pis+)>
+<!ELEMENT noassistents (pis+)>
+<!ELEMENT comunitat (#PCDATA)>
+<!ELEMENT pis (#PCDATA)>
+

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="actaampliada.css" ?>
+<!-- Aquest document ha estat generat amb el prodigiós programa ManualTypemàtic v0.1 -->
+<acta sessió="68" data="2017-11-21" inici="20:00:00" durada="pT3H45M" >
+    <comunitat> Junta de propietaris del Carrer de la Selva de Mar, 211 </comunitat>
+    <president>Sr. Lluís Bendito i Sigüenza</president>
+    <vicepresident>Sra. Ramona González Remolona</vicepresident>
+    <administrador>Sr. Romualdo Malandrín Segura</administrador>
+    <assistents>
+        <assistent>
+            <pis>1er 1ra</pis>
+            <veí>Sra. Josefa Ramos Granados</veí>
+            <veí>Sra. Jamilda Altramuz Izaguirre</veí>
+        </assistent>
+        <assistent>
+            <pis>1er 2na</pis>
+            <veí>Sr. Vicent Carallot i Gripau</veí>
+        </assistent>
+        <assistent>
+            <pis>2on 1ra</pis>
+            <veí rol="president">Sr. Lluís Benito i Sigüenza</veí>
+        </assistent>
+        <assistent>
+            <pis>2on 2na</pis>
+            <veí>Sr. Carles Valdaura Ronyós</veí>
+            <veí rol="vicepresident">Sra. Ramona González Remolona</veí>
+            <veí>Sta. Ramona Valdaura González</veí>
+        </assistent>
+        <assistent>
+            <pis>4rt 1ra</pis>
+            <veí>Sr. Lam Kam Chuen</veí>
+        </assistent>
+    </assistents>
+    <noassistents>
+        <pis>3er 2na</pis>
+        <pis>3er 1ra</pis>
+        <pis>4rt 2na</pis>
+    </noassistents>
+    <ordredeldia>
+        <punt id="1">Lectura i aprovació, si escau, de l'acta anterior</punt>
+        <punt id="2">Estat de pagament de les quotes del propietari del pis 4rt 2na.</punt>
+        <punt id="3">Torn obert de paraula</punt>
+        <punt id="4">Horari de reg i utilització dels espais comuns per part del propietari del pis 4rt 2na.</punt>
+    </ordredeldia>
+    <desenvolupament>
+        <entrada punt="1">
+            <paragraf>La sra. vicepresidenta llegeix l’acta de la reunió.</paragraf>
+        </entrada>
+        <entrada punt="2">
+            <paragraf>El sr. president passa la paraula al Sr. administrador qui descriu que el pis 4rt 2na no està al corrent de pagament de les quotes de la comunitat. Indica que el propietari en qüestió va deixar de pagar fa cinc mesos i deu a la comunitat 376.25€.</paragraf>
+            <paragraf>El sr. Vicent Carallot exposa els problemes que està tenint amb el reg de les plantes a qualsevol hora i de manera desproporcionada, per part del propietari del pis en qüestió i també que deixa una pudor inaguantable a la porteria quan baixa les escombreries. Altres veïns s’hi afegeixen a la discussió.</paragraf>
+            <paragraf>El sr. Chuen indica que l’ascensor no arriba al seu pis o bé que s’ha comprat un gos verd (cap de la junta ni el Sr. administrador vam poder esverinar-ho exàctament). En tot cas, se li indica que aquest tema havia de ser tractat al torn obert de paraula.</paragraf>
+        </entrada>
+        <entrada punt="4">
+            <paragraf>Queda tractat amb el punt 2.</paragraf>
+        </entrada>
+        <entrada punt="3">
+            <paragraf>No queda temps per desenvolupar aquest punt. El sr. Chuen protesta i la junta acorda oferir-li una oportunitat per a exposar el seu tema en una reunió propera.</paragraf>
+        </entrada>
+    </desenvolupament>
+    <acords>
+      <acord id="1">S'acorda abordar el tema del Sr. Chuen en la propera reunió</acord>
+    </acords>
+    <temespendents>
+      <tema id="1"> Estudi del problema del veí del 4rt 1ra </tema>
+    </temespendents>
+</acta>
+
